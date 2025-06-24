@@ -144,7 +144,7 @@ http://125.227.210.55:35802/VideoInput/play.ts
 #EXTINF:-1 group-title="代理",PBS臺
 http://125.227.210.55:36950/VideoInput/play.ts
 
-#EXTINF:-1 group-title="代理",HD臺
+#EXTINF:-1 group-title="代理",凤凰中文台
 http://125.227.210.55:39004/VideoInput/play.ts
 
 #EXTINF:-1 group-title="代理",DW臺
