@@ -14,7 +14,7 @@ http://qwt.zhibotv.top:2016/全网通.php?id=CCTV2
 http://114.104.183.26:8688/udp/238.1.78.170:7232
 
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://live.fanmingming.cn/tv/CCTV4.png" group-title="全网通",CCTV4
-http://114.104.141.121:8688/udp/238.1.78.236:7760
+http://114.104.183.164:8688/udp/238.1.78.236:7760,0.39
 
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.cn/tv/CCTV5.png" group-title="全网通",CCTV5
 http://qwt.zhibotv.top:2016/全网通.php?id=CCTV5
