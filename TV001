@@ -1,5 +1,53 @@
 #EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml"
 #央视频道
+#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://live.fanmingming.cn/tv/CCTV12.png" group-title="咪咕央视",CCTV12
+http://go.bkpcp.top/mg/cctv12
+
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://live.fanmingming.cn/tv/CCTV13.png" group-title="咪咕央视",CCTV13
+http://go.bkpcp.top/mg/cctv13
+
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://live.fanmingming.cn/tv/CCTV14.png" group-title="咪咕央视",CCTV14
+http://go.bkpcp.top/mg/cctv14
+
+#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://live.fanmingming.cn/tv/CCTV15.png" group-title="咪咕央视",CCTV15
+http://go.bkpcp.top/mg/cctv15
+
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://live.fanmingming.cn/tv/CCTV16.png" group-title="咪咕央视",CCTV16
+http://go.bkpcp.top/mg/cctv16
+
+#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://live.fanmingming.cn/tv/CCTV17.png" group-title="咪咕央视",CCTV17
+http://go.bkpcp.top/mg/cctv17
+
+
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://live.fanmingming.cn/tv/北京卫视.png" group-title="咪咕央视",北京卫视
+http://go.bkpcp.top/mg/bjws
+
+#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.cn/tv/深圳卫视.png" group-title="咪咕央视",深圳卫视
+http://go.bkpcp.top/mg/szws
+
+#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://live.fanmingming.cn/tv/湖北卫视.png" group-title="咪咕央视",湖南卫视
+http://go.bkpcp.top/mg/hunws
+
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://live.fanmingming.cn/tv/东方卫视.png" group-title="咪咕央视",东方卫视
+http://go.bkpcp.top/mg/dfws
+
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.cn/tv/浙江卫视.png" group-title="咪咕央视",浙江卫视
+http://go.bkpcp.top/mg/zjws
+
+#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.cn/tv/江苏卫视.png" group-title="咪咕央视",江苏卫视
+http://go.bkpcp.top/mg/jsws
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1  tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png"  group-title="💓专享央视",CCTV1
 https://smart.pendy.dpdns.org/Smart.php?id=cctv1
 #EXTINF:-1  tvg-name="CCTV2" tvg-logo="https://live.fanmingming.cn/tv/CCTV2.png"  group-title="💓专享央视",CCTV2
