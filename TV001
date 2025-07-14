@@ -90,6 +90,107 @@ https://smart.pendy.dpdns.org/Smart.php?id=cctv14
 #EXTINF:-1  tvg-name="CCTV15" tvg-logo="https://live.fanmingming.cn/tv/CCTV15.png"  group-title="💓专享央视",CCTV15
 https://smart.pendy.dpdns.org/Smart.php?id=cctv15
 
+#EXTINF:-1 tvg-name="CCTV-1"  group-title="大陆",CCTV-1
+http://go.bkpcp.top/mg/cctv1
+#EXTINF:-1 tvg-name="CCTV-2"  group-title="大陆" ,CCTV-2
+http://go.bkpcp.top/mg/cctv2
+#EXTINF:-1 tvg-name="CCTV-3"  group-title="大陆",CCTV-3
+http://go.bkpcp.top/mg/cctv3
+#EXTINF:-1 tvg-name="CCTV-4"  group-title="大陆",CCTV-4
+http://go.bkpcp.top/mg/cctv4
+#EXTINF:-1 tvg-name="CCTV-5"  group-title="大陆",CCTV-5
+http://go.bkpcp.top/mg/cctv5
+#EXTINF:-1 tvg-name="CCTV-5+"  group-title="大陆",CCTV-5+
+http://go.bkpcp.top/mg/cctv5p
+#EXTINF:-1 tvg-name="CCTV-6"  group-title="大陆",CCTV-6
+http://go.bkpcp.top/mg/cctv6
+#EXTINF:-1 tvg-name="CCTV-7"  group-title="大陆",CCTV-7
+http://go.bkpcp.top/mg/cctv7
+#EXTINF:-1 tvg-name="CCTV-8"  group-title="大陆",CCTV-8
+http://go.bkpcp.top/mg/cctv8
+#EXTINF:-1 tvg-name="CCTV-9"  group-title="大陆",CCTV-9
+http://go.bkpcp.top/mg/cctv9
+#EXTINF:-1 tvg-name="CCTV-10"  group-title="大陆",CCTV-10
+http://go.bkpcp.top/mg/cctv10
+#EXTINF:-1 tvg-name="CCTV-11"  group-title="大陆",CCTV-11
+http://go.bkpcp.top/mg/cctv11
+#EXTINF:-1 tvg-name="CCTV-12"  group-title="大陆",CCTV-12
+http://go.bkpcp.top/mg/cctv12
+#EXTINF:-1 tvg-name="CCTV-13"  group-title="大陆",CCTV-13
+http://go.bkpcp.top/mg/cctv13
+#EXTINF:-1 tvg-name="CCTV-14"  group-title="大陆",CCTV-14
+http://go.bkpcp.top/mg/cctv14
+#EXTINF:-1 tvg-name="CCTV-15"  group-title="大陆",CCTV-15
+http://go.bkpcp.top/mg/cctv15
+#EXTINF:-1 tvg-name="CCTV-16"  group-title="大陆",CCTV-16
+http://go.bkpcp.top/mg/cctv16
+#EXTINF:-1 tvg-name="CCTV-17"  group-title="大陆",CCTV-17
+http://go.bkpcp.top/mg/cctv17
+#EXTINF:-1 tvg-name="cct4欧洲"  group-title="大陆",cct4欧洲
+http://go.bkpcp.top/mg/cctv4o
+#EXTINF:-1 tvg-name="cct4美洲"  group-title="大陆",cct4美洲
+http://go.bkpcp.top/mg/cctv4m
+#EXTINF:-1 tvg-name="CGTN-西"  group-title="大陆",CGTN-西
+http://go.bkpcp.top/mg/cgtne
+#EXTINF:-1 tvg-name="CGTN-阿"  group-title="大陆",CGTN-阿
+http://go.bkpcp.top/mg/cgtna
+#EXTINF:-1 tvg-name="CGTN-法"  group-title="大陆",CGTN-法
+http://go.bkpcp.top/mg/cgtnf
+#EXTINF:-1 tvg-name="北京卫视"  group-title="大陆",北京卫视
+http://go.bkpcp.top/mg/bjws
+#EXTINF:-1 tvg-name="东方卫视"  group-title="大陆",东方卫视
+http://go.bkpcp.top/mg/dfws
+#EXTINF:-1 tvg-name="浙江卫视"  group-title="大陆",浙江卫视
+http://go.bkpcp.top/mg/zjws
+#EXTINF:-1 tvg-name="江苏卫视"  group-title="大陆",江苏卫视
+http://go.bkpcp.top/mg/jsws
+#EXTINF:-1 tvg-name="湖南卫视"  group-title="大陆",湖南卫视
+http://go.bkpcp.top/mg/hunws
+#EXTINF:-1 tvg-name="广东卫视"  group-title="大陆",广东卫视
+http://go.bkpcp.top/mg/gdws
+#EXTINF:-1 tvg-name="深圳卫视4k"  group-title="大陆",深圳卫视4k
+http://go.bkpcp.top/mg/szws
+#EXTINF:-1 tvg-name="山东卫视"  group-title="大陆",山东卫视
+http://go.bkpcp.top/mg/sdws
+#EXTINF:-1 tvg-name="河南卫视"  group-title="大陆",河南卫视
+http://go.bkpcp.top/mg/hnws
+#EXTINF:-1 tvg-name="江西卫视"  group-title="大陆",江西卫视
+http://go.bkpcp.top/mg/jxws
+#EXTINF:-1 tvg-name="湖北卫视"  group-title="大陆",湖北卫视
+http://go.bkpcp.top/mg/hubws
+#EXTINF:-1 tvg-name="海南卫视"  group-title="大陆",海南卫视
+http://go.bkpcp.top/mg/hinws
+#EXTINF:-1 tvg-name="陕西卫视"  group-title="大陆",陕西卫视
+http://go.bkpcp.top/mg/sxws
+#EXTINF:-1 tvg-name="兵团卫视"  group-title="大陆",兵团卫视
+http://go.bkpcp.top/mg/btws
+#EXTINF:-1 tvg-name="黑龙江视"  group-title="大陆",黑龙江视
+http://go.bkpcp.top/mg/hljws
+#EXTINF:-1 tvg-name="广东珠江"  group-title="大陆",广东珠江
+http://go.bkpcp.top/mg/gdzj
+#EXTINF:-1 tvg-name="广东体育"  group-title="大陆",广东体育
+http://go.bkpcp.top/mg/gdty
+#EXTINF:-1 tvg-name="大湾区卫视"  group-title="大陆",大湾区卫视
+http://go.bkpcp.top/mg/gddwq
+#EXTINF:-1 tvg-name="广东影视"  group-title="大陆",广东影视
+http://go.bkpcp.top/mg/gdys
+#EXTINF:-1 tvg-name="广东新闻"  group-title="大陆",广东新闻
+http://go.bkpcp.top/mg/gdxw
+#EXTINF:-1 tvg-name="广东民生"  group-title="大陆",广东民生
+http://go.bkpcp.top/mg/gdms
+#EXTINF:-1 tvg-name="19⁰5电影频道"  group-title="大陆",19⁰5电影频道
+http://150.138.77.132:10037/1905电影网.php?id=1905
+#EXTINF:-1 tvg-name="深圳卫视4k"  group-title="大陆",深圳卫视4k
+https://livepull-tcms.sztv.com.cn/live/sz4Kpgm.m3u8
+
+
+
+
+
+
+
+
+
 #数字频道
 #EXTINF:-1 tvg-id="CHC1" tvg-name="CHC影迷电影" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/shuzi/CHC4.png" group-title="数字频道",CHC影迷电影
 http://223.82.161.157:899/hls/51/index.m3u8
