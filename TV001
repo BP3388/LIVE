@@ -1,5 +1,15 @@
 #EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml"
 #央视频道
+#EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.cn/tv/深圳卫视.png" group-title="咪咕央视",CCTV 4K
+http://xc.mfykeke.top:35455/nptv/cctv4k.m3u8
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://live.fanmingming.cn/tv/深圳卫视.png" group-title="咪咕央视",北京卫视4K
+https://migu.188766.xyz/?migutoken=4de3a99b22fd347ac2c3019df7c6454b&id=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86&pp=1
+
+#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://live.fanmingming.cn/tv/深圳卫视.png" group-title="咪咕央视",广东卫视4K
+http://vvip.lqcc.xyz:8092/stream/channelid/1248069700?auth=PrI5LXwb51dYilt30TvNYVVAgd4A&profile=pass
+
+#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://live.fanmingming.cn/tv/深圳卫视.png" group-title="咪咕央视",广东卫视4K
+http://ikuai.haleeyo.cn:9003/udp/239.77.0.27:5146
 
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.cn/tv/深圳卫视.png" group-title="咪咕央视",深圳卫视4K
 https://livepull-tcms.sztv.com.cn:443/live/sz4Kpgm.m3u8
