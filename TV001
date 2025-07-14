@@ -5,16 +5,17 @@ https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
 #EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.cn/tv/深圳卫视.png" group-title="咪咕央视",CCTV4K
 http://192.168.31.2:35455/tptv/G_CCTV-4K-HD.m3u8
 
-#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://live.fanmingming.cn/tv/深圳卫视.png" group-title="咪咕央视",广东卫视4K
-http://vvip.lqcc.xyz:8092/stream/channelid/1248069700?auth=PrI5LXwb51dYilt30TvNYVVAgd4A&profile=pass
+#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://live.fanmingming.cn/tv/深圳卫视.png" group-title="咪咕央视",广东4K超高清
+http://119.32.12.12:2901/udp/225.1.101.44:7523
 
-#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://live.fanmingming.cn/tv/深圳卫视.png" group-title="咪咕央视",广东卫视4K
-http://ikuai.haleeyo.cn:9003/udp/239.77.0.27:5146
+#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://live.fanmingming.cn/tv/深圳卫视.png" group-title="咪咕央视",CCTV16-4K
+http://119.32.12.12:2901/udp/225.1.101.130:7523
 
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.cn/tv/深圳卫视.png" group-title="咪咕央视",深圳卫视4K
 https://livepull-tcms.sztv.com.cn:443/live/sz4Kpgm.m3u8
-#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.cn/tv/深圳卫视.png" group-title="咪咕央视",深圳卫视4K
-http://push-rtmp-hs-spe-f5.douyincdn.com/live/xiangjiaogeszws4k.flv
+#EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.cn/tv/深圳卫视.png" group-title="咪咕央视"CCTV4K
+http://119.32.12.12:2901/udp/225.1.101.109:7523
+
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="咪咕央视",CCTV1
 http://106.52.196.79/TV/mui.php?id=cctv1
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV2.png" group-title="咪咕央视",CCTV2
