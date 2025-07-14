@@ -162,149 +162,21 @@ http://125.227.210.55:51359/VideoInput/play.ts
 #EXTINF:-1 group-title="代理",NHK BSP
 http://125.227.210.55:60116/VideoInput/play.ts
 
-#EXTINF:-1 group-title="AKTV" tvg-id="aktv/animaxhk" provider-type="iptv",Animax (HK)
-https://s1.tvm4a1.cfd/aktv/animaxhk/AKTV.m3u8
-
-#EXTINF:-1 group-title="AKTV" tvg-id="aktv/axn" provider-type="iptv",AXN
-https://s1.tvm4a1.cfd/aktv/axn/AKTV.m3u8
-
-#EXTINF:-1 group-title="AKTV" tvg-id="aktv/channel5hd" provider-type="iptv",Channel 5 HD
-https://s1.tvm4a1.cfd/aktv/channel5hd/AKTV.m3u8
-
-#EXTINF:-1 group-title="AKTV" tvg-id="aktv/channel8hd" provider-type="iptv",Channel 8 HD
-https://s1.tvm4a1.cfd/aktv/channel8hd/AKTV.m3u8
- 
-#EXTINF:-1 group-title="AKTV" tvg-id="aktv/channeluhd" provider-type="iptv",Channel U HD
-https://s1.tvm4a1.cfd/aktv/channeluhd/AKTV.m3u8
-
-#EXTINF:-1 group-title="AKTV" tvg-id="aktv/lovenaturehd" provider-type="iptv",Love Nature HD
-https://s1.tvm4a1.cfd/aktv/lovenaturehd/AKTV.m3u8
-
-#EXTINF:-1 group-title="AKTV" tvg-id="aktv/popc" provider-type="iptv",PopC
-https://s1.tvm4a1.cfd/aktv/popc/AKTV.m3u8
-
-#EXTINF:-1 group-title="AKTV" tvg-id="aktv/rockaction" provider-type="iptv",ROCK Action
-https://s1.tvm4a1.cfd/aktv/rockaction/AKTV.m3u8
-
-#EXTINF:-1 group-title="AKTV" tvg-id="aktv/tvbplus" provider-type="iptv",TVB Plus
-https://s1.tvm4a1.cfd/aktv/tvbplus/AKTV.m3u8
-
-#EXTINF:-1 group-title="AKTV" tvg-id="aktv/tvn" provider-type="iptv",tvN
-https://s1.tvm4a1.cfd/aktv/tvn/AKTV.m3u8
-
-#EXTINF:-1 group-title="AKTV" tvg-id="aktv/1080" provider-type="iptv",天映經典(1080)
-https://s1.tvm4a1.cfd/aktv/1080/AKTV.m3u8
-
-#EXTINF:-1 group-title="AKTV" tvg-id="aktv/CH-19" provider-type="iptv",明珠剧集台(北美)
-https://s1.tvm4a1.cfd/aktv/CH-19/AKTV.m3u8
-
-#EXTINF:-1 group-title="AKTV" tvg-id="aktv/CH-2" provider-type="iptv",明珠台
-https://s1.tvm4a1.cfd/aktv/CH-2/AKTV.m3u8
-
-#EXTINF:-1 group-title="AKTV" tvg-id="aktv/CH-1" provider-type="iptv",無線新聞台
-https://s1.tvm4a1.cfd/aktv/CH-1/AKTV.m3u8
-
-#EXTINF:-1 group-title="AKTV" tvg-id="aktv/hk" provider-type="iptv",美亞電影台(HK)
-https://s1.tvm4a1.cfd/aktv/hk/AKTV.m3u8
-
-#EXTINF:-1 group-title="AKTV" tvg-id="aktv/CH-18" provider-type="iptv",翡翠剧集台(北美)
-https://s1.tvm4a1.cfd/aktv/CH-18/AKTV.m3u8
-
-#EXTINF:-1 group-title="AKTV" tvg-id="aktv/CH-0" provider-type="iptv",翡翠台
-https://s1.tvm4a1.cfd/aktv/CH-0/AKTV.m3u8
-
-#EXTINF:-1 group-title="AKTV" tvg-id="aktv/CH-17" provider-type="iptv",翡翠综合台(北美)
-https://s1.tvm4a1.cfd/aktv/CH-17/AKTV.m3u8
-
-#EXTINF:-1 group-title="AKTV" tvg-id="aktv/CH-3" provider-type="iptv",鳳凰衛視中文台
-https://s1.tvm4a1.cfd/aktv/CH-3/AKTV.m3u8
-
-#EXTINF:-1 group-title="AKTV" tvg-id="aktv/CH-4" provider-type="iptv",鳳凰衛視資訊台
-https://s1.tvm4a1.cfd/aktv/CH-4/AKTV.m3u8
-
-#EXTINF:-1 group-title="AKTV" tvg-id="aktv/CH-5" provider-type="iptv",鳳凰衛視香港台
-https://s1.tvm4a1.cfd/aktv/CH-5/AKTV.m3u8
-
-#EXTINF:-1 group-title="AKTV" tvg-id="aktv/CH-6" provider-type="iptv",黃金翡翠台
-https://s1.tvm4a1.cfd/aktv/CH-6/AKTV.m3u8
-
-#EXTINF:-1 group-title="AKTV2" tvg-id="aktv2/skysportsf1" tvg-logo="" provider="AKTV2" provider-logo="" provider-type="iptv",Sky Sports F1
-https://s1.tvm4a1.cfd/aktv2/skysportsf1/AKTV.m3u8
-
-#EXTINF:-1 group-title="AKTV2" tvg-id="aktv2/CH-3" tvg-logo="" provider="AKTV2" provider-logo="" provider-type="iptv",天映电影
-https://s1.tvm4a1.cfd/aktv2/CH-3/AKTV.m3u8
-
-#EXTINF:-1 group-title="AKTV2" tvg-id="aktv2/CH-2" tvg-logo="" provider="AKTV2" provider-logo="" provider-type="iptv",東森洋片
-https://s1.tvm4a1.cfd/aktv2/CH-2/AKTV.m3u8
-
-#EXTINF:-1 group-title="AKTV2" tvg-id="aktv2/CH-1" tvg-logo="" provider="AKTV2" provider-logo="" provider-type="iptv",東森電影
-https://s1.tvm4a1.cfd/aktv2/CH-1/AKTV.m3u8
-
-#EXTINF:-1 group-title="AKTV2" tvg-id="aktv2/CH-0" tvg-logo="" provider="AKTV2" provider-logo="" provider-type="iptv",緯來體育台
-https://s1.tvm4a1.cfd/aktv2/CH-0/AKTV.m3u8
-
-#EXTINF:-1 group-title="AKTV3" tvg-id="aktv3/cna" tvg-logo="" provider="AKTV3" provider-logo="" provider-type="iptv",CNA
-https://s1.tvm4a1.cfd/aktv3/cna/AKTV.m3u8
-
-#EXTINF:-1 group-title="AKTV3" tvg-id="aktv3/CH-0" tvg-logo="" provider="AKTV3" provider-logo="" provider-type="iptv",朝鲜恩情台
-https://s1.tvm4a1.cfd/aktv3/CH-0/AKTV.m3u8
-
-#EXTINF:-1 group-title="AKTV-JP" tvg-id="aktvjp/japannews24hlive" tvg-logo="" provider="AKTV-JP" provider-logo="" provider-type="iptv",Japan News 24H LIVE
-https://s1.tvm4a1.cfd/aktvjp/japannews24hlive/AKTV.m3u8
-
-#EXTINF:-1 group-title="AKTV-JP" tvg-id="aktvjp/ntv" tvg-logo="" provider="AKTV-JP" provider-logo="" provider-type="iptv",日テレNEWS LIVE
-https://s1.tvm4a1.cfd/aktvjp/ntv/AKTV.m3u8
-
-#EXTINF:-1 group-title="astro" tvg-id="astro/8tv" tvg-logo="" provider="astro" provider-logo="" provider-type="iptv",8TV
-https://s1.tvm4a1.cfd/astro/8tv/AKTV.m3u8
-
-#EXTINF:-1 group-title="astro" tvg-id="astro/CH-0" tvg-logo="" provider="astro" provider-logo="" provider-type="iptv",Astro Football
-https://s1.tvm4a1.cfd/astro/CH-0/AKTV.m3u8
-
-#EXTINF:-1 group-title="astro" tvg-id="astro/astrosportuhd" tvg-logo="" provider="astro" provider-logo="" provider-type="iptv",Astro Sport UHD
-https://s1.tvm4a1.cfd/astro/astrosportuhd/AKTV.m3u8
-
-#EXTINF:-1 group-title="astro" tvg-id="astro/eurosport1" tvg-logo="" provider="astro" provider-logo="" provider-type="iptv",EuroSport 1
-https://s1.tvm4a1.cfd/astro/eurosport1/AKTV.m3u8
-
-#EXTINF:-1 group-title="astro" tvg-id="astro/eurosport2" tvg-logo="" provider="astro" provider-logo="" provider-type="iptv",EuroSport 2
-https://s1.tvm4a1.cfd/astro/eurosport2/AKTV.m3u8
-
-#EXTINF:-1 group-title="astro" tvg-id="astro/tntsports1" tvg-logo="" provider="astro" provider-logo="" provider-type="iptv",TNT SPORTS 1
-https://s1.tvm4a1.cfd/astro/tntsports1/AKTV.m3u8
-
-#EXTINF:-1 group-title="astro" tvg-id="astro/tntsports2" tvg-logo="" provider="astro" provider-logo="" provider-type="iptv",TNT SPORTS 2
-https://s1.tvm4a1.cfd/astro/tntsports2/AKTV.m3u8
-
-#EXTINF:-1 group-title="astro" tvg-id="astro/tntsports3" tvg-logo="" provider="astro" provider-logo="" provider-type="iptv",TNT SPORTS 3
-https://s1.tvm4a1.cfd/astro/tntsports3/AKTV.m3u8
-
-#EXTINF:-1 group-title="astro" tvg-id="astro/CH-1" tvg-logo="" provider="astro" provider-logo="" provider-type="iptv",中天亚洲台
-https://s1.tvm4a1.cfd/astro/CH-1/AKTV.m3u8
-
-#EXTINF:-1 group-title="taiwan" tvg-id="taiwan/CH-3" tvg-logo="" provider="taiwan" provider-logo="" provider-type="iptv",KLT-靖天國際台
-https://s1.tvm4a1.cfd/taiwan/CH-3/AKTV.m3u8
-
-#EXTINF:-1 group-title="taiwan" tvg-id="taiwan/tvbs" tvg-logo="" provider="taiwan" provider-logo="" provider-type="iptv",TVBS
-https://s1.tvm4a1.cfd/taiwan/tvbs/AKTV.m3u8
-
-#EXTINF:-1 group-title="taiwan" tvg-id="taiwan/CH-1" tvg-logo="" provider="taiwan" provider-logo="" provider-type="iptv",民視
-https://s1.tvm4a1.cfd/taiwan/CH-1/AKTV.m3u8
-
-#EXTINF:-1 group-title="taiwan" tvg-id="taiwan/CH-0" tvg-logo="" provider="taiwan" provider-logo="" provider-type="iptv",民視第一台
-https://s1.tvm4a1.cfd/taiwan/CH-0/AKTV.m3u8
-
-#EXTINF:-1 group-title="taiwan" tvg-id="taiwan/CH-5" tvg-logo="" provider="taiwan" provider-logo="" provider-type="iptv",龍華日韓台
-https://s1.tvm4a1.cfd/taiwan/CH-5/AKTV.m3u8
-
-#EXTINF:-1 group-title="taiwan2" tvg-id="taiwan2/tvb" tvg-logo="" provider="taiwan2" provider-logo="" provider-type="iptv",TVB 星河
-https://s1.tvm4a1.cfd/taiwan2/tvb/AKTV.m3u8
-
-#EXTINF:-1 group-title="TVBS" tvg-id="tvbs/tvbs" tvg-logo="" provider="TVBS" provider-logo="" provider-type="iptv",TVBS新聞
-https://s1.tvm4a1.cfd/tvbs/tvbs/AKTV.m3u8
-
-#EXTINF:-1 group-title="zhongtian" tvg-id="zhongtian/CH-0" tvg-logo="" provider="zhongtian" provider-logo="" provider-type="iptv",中天新闻台
-https://s1.tvm4a1.cfd/zhongtian/CH-0/AKTV.m3u8
-
-#EXTINF:-1 group-title="zhongtian" tvg-id="zhongtian/CH-1" tvg-logo="" provider="zhongtian" provider-logo="" provider-type="iptv",東森新聞
-https://s1.tvm4a1.cfd/zhongtian/CH-1/AKTV.m3u8
+#EXTINF:-96 tvg-id="HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="HBO",HBO
+https://s8.sky4k.top/stream/astro/hbo/master.m3u8?u=cvappuser&p=0f573e68e00dff8dca0ea6fb2e78c1b9b490a64e8d103112965404558fc00aa8
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 11; sdk_gphone_x86 Build/RSR1.210722.013.A2)
+#EXTINF:-1 tvg-id="415.astro" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="HBO",HBO HITS
+https://s8.sky4k.top/stream/astro/hbohits/master.m3u8?u=cvappuser&p=0f573e68e00dff8dca0ea6fb2e78c1b9b490a64e8d103112965404558fc00aa8
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 11; sdk_gphone_x86 Build/RSR1.210722.013.A2)
+#EXTINF:-96 tvg-id="414.astro" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1920px-HBO_Family_Asia_logo.svg.png" group-title="HBO",HBO FAMLIY
+https://s8.sky4k.top/stream/astro/hbofamily/master.m3u8?u=cvappuser&p=0f573e68e00dff8dca0ea6fb2e78c1b9b490a64e8d103112965404558fc00aa8
+#KODIPROP:inputstream.adaptive.file_type=m3u8
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 11; sdk_gphone_x86 Build/RSR1.210722.013.A2)
+#EXTINF:-94 player-buffer="50" tvg-id="6421" tvg-logo="https://i.imgur.com/KtWxxS3.png" group-title="HBO",HBO SIGNATURE
+http://50.7.234.10:8278/hbosignature_twn/playlist.m3u8?tid=m48ee99a5dacb15948906&ct=17874&tsum=3d127801d49fa098b4118400117b4fbb
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 11; sdk_gphone_x86 Build/RSR1.210722.013.A2)
+#EXTINF:-96 tvg-id="CINEMAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Cinemax_LA.png" group-title="HBO",Cinemax
+https://smart.pendy.dpdns.org/Smart.php?id=Cinemax
