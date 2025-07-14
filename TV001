@@ -1,7 +1,6 @@
 #EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml"
 #央视频道
-#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.cn/tv/深圳卫视.png" group-title="咪咕央视",深圳卫视4K
-https://livepull-tcms.sztv.com.cn:443/live/sz4Kpgm.m3u8
+
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.cn/tv/深圳卫视.png" group-title="咪咕央视",深圳卫视4K
 https://livepull-tcms.sztv.com.cn:443/live/sz4Kpgm.m3u8
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.cn/tv/深圳卫视.png" group-title="咪咕央视",深圳卫视4K
