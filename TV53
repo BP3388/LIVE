@@ -18,6 +18,11 @@ CCTV4K A,http://192.168.31.2:35455/tptv/G_CCTV-4K-HD.m3u8
 深圳卫视4K,http://8.138.7.223/tv/gd.php?id=0201
 EuroSport 4K,https://7pal.short.gy/eusport4k
 Sky Sports F1 UHD,https://7pal.short.gy/SSF1uhd
+广东卫视4K,http://xxwx.yoesun.com/xxw/卫视4K.php?id=gd4k
+深圳卫视4K,http://xxwx.yoesun.com/xxw/卫视4K.php?id=sz4k
+
+
+
 
 新聞,#genre#
 NHK BSP,http://125.227.210.55:60116/VideoInput/play.ts
@@ -74,7 +79,7 @@ CCTV风云音乐,http://114.104.183.26:8688/udp/238.1.79.64:4648
 CCTV高尔夫网球,http://114.104.183.26:8688/udp/238.1.79.58:4600
 CCTV高尔夫网球,http://114.104.141.121:8688/udp/238.1.79.58:4600
 
-ANHUI 卫视,#genre#
+卫视,#genre#
 东南卫视,http://114.104.183.26:8688/udp/238.1.78.22:6104
 东方卫视,http://114.104.183.26:8688/udp/238.1.78.163:7176
 云南卫视,http://114.104.183.26:8688/udp/238.1.78.89:6584
