@@ -1,3 +1,36 @@
+4K,#genre#
+Love Nature 4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+Love Nature 4K,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=1761&tk=f6cc1e0a0e1a
+Loupe 4K,https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
+Loupe 4K,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=4726&tk=f6cc1e0a0e1a
+Fashion 4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+Fashion 4K,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=9831&tk=f6cc1e0a0e1a
+
+苏州4K,https://live-auth.51kandianshi.com/szgd/csztv4k_hd.m3u8
+河北4K,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=f56e90&tk=922ba46651d3
+南国都市4K,https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de
+
+咪咕体育1,http://home.kuaidi521.com:35455/itv/3000000010000005180.m3u8
+咪咕国际4K,http://home.kuaidi521.com:35455/itv/3000000010000015686.m3u8
+北京纪实科教8K,https://gdcucc.v1.mk/gdcucc/brtv8k.m3u8
+北京IPTV4K,http://home.kuaidi521.com:35455/bptv/3221226550.m3u8
+
+CCTV 4K,http://fn.tmde.top:35455/nptv/cctv4k.m3u8
+CCTV 8K,http://fn.tmde.top:35455/nptv/cctv8k.m3u8
+CCTV 4K,http://xc.mfykeke.top:35455/nptv/cctv4k.m3u8
+CCTV 8K,http://xc.mfykeke.top:35455/nptv/cctv8k.m3u8
+
+北京卫视4K,https://migu.188766.xyz/?migutoken=4de3a99b22fd347ac2c3019df7c6454b&id=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86&pp=1
+深圳卫视4K,https://migu.188766.xyz/?migutoken=3100906f039cd53c8274bdf515d565e3&id=%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86&pp=1
+北京卫视4K,https://migu.188766.xyz/?migutoken=3db112733dbbd9d9081b733f24d7aaa4&id=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86&pp=1
+深圳卫视4K,https://migu.188766.xyz/?migutoken=6dbfdaaddc42715e00238b7ddf205493&id=%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86&pp=1
+深圳卫视4K,https://livepull-tcms.sztv.com.cn:443/live/sz4Kpgm.m3u8
+深圳卫视4K,http://8.138.7.223/tv/gd.php?id=0201
+深圳卫视4K,http://ikuai.haleeyo.cn:9003/udp/239.77.1.14:5146
+深圳卫视4K,http://27.184.29.189:4022/rtp/239.254.201.68:6000
+广东卫视4K,http://vvip.lqcc.xyz:8092/stream/channelid/1248069700?auth=PrI5LXwb51dYilt30TvNYVVAgd4A&profile=pass
+广东卫视4K,http://ikuai.haleeyo.cn:9003/udp/239.77.0.27:5146
+
 新聞,#genre#
 NHK BSP,http://125.227.210.55:60116/VideoInput/play.ts
 CNN new,http://125.227.210.55:8166/VideoInput/play.ts
@@ -20,7 +53,7 @@ TVBS HD,http://125.227.210.55:8188/VideoInput/play.ts
 CNBC,http://125.227.210.55:8152/VideoInput/play.ts
 民視新聞,http://125.227.210.55:8157/VideoInput/play.ts
 
-ANHUi央视,#genre#:
+ANHUi央视,#genre#
 CCTV-1 综合,http://114.104.183.26:8688/udp/238.1.78.166:7200
 CCTV-3 综艺,http://114.104.183.26:8688/udp/238.1.78.170:7232
 CCTV-3 综艺,http://114.104.183.26:8688/udp/238.1.78.170:7232
@@ -51,7 +84,7 @@ CCTV风云音乐,http://114.104.183.26:8688/udp/238.1.79.64:4648
 CCTV高尔夫网球,http://114.104.183.26:8688/udp/238.1.79.58:4600
 CCTV高尔夫网球,http://114.104.141.121:8688/udp/238.1.79.58:4600
 
-ANHUI 卫视,#genre#:
+ANHUI 卫视,#genre#
 东南卫视,http://114.104.183.26:8688/udp/238.1.78.22:6104
 东方卫视,http://114.104.183.26:8688/udp/238.1.78.163:7176
 云南卫视,http://114.104.183.26:8688/udp/238.1.78.89:6584
@@ -94,7 +127,7 @@ ANHUI 卫视,#genre#:
 
 
 
-📺北方广电源,#genre#
+北方广电源,#genre#
 CCTV-1HD,http://120.76.248.139/live/bfgd/4200000484.m3u8
 CCTV-1HD,http://120.76.248.139/live/bfgd/4200000488.m3u8
 CCTV-1HD,http://120.76.248.139/live/bfgd/4200000489.m3u8
