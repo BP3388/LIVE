@@ -14,6 +14,7 @@ CCTV4K A,http://192.168.31.2:35455/tptv/G_CCTV-4K-HD.m3u8
 咪咕国际4K,http://home.kuaidi521.com:35455/itv/3000000010000015686.m3u8
 北京纪实科教8K,
 北京IPTV4K,
+深圳卫视UHD,http://z.b.bkpcp.top/m.php?id=szws
 深圳卫视4K,https://livepull-tcms.sztv.com.cn:443/live/sz4Kpgm.m3u8
 深圳卫视4K,http://8.138.7.223/tv/gd.php?id=0201
 EuroSport 4K,https://7pal.short.gy/eusport4k
@@ -30,7 +31,8 @@ CHC动作电影,http://223.82.161.157:899/hls/54/index.m3u8
 求索生活,
 求索动物,
 
-
+东南亚频道,#genre#
+印尼 SCTV,https://smart.pendy.dpdns.org/Smart.php?id=SCTV
 
 新聞,#genre#
 NHK BSP,http://125.227.210.55:60116/VideoInput/play.ts
@@ -84,6 +86,25 @@ CCTV风云足球,http://114.104.183.26:8688/udp/238.1.79.57:4592
 CCTV风云音乐,http://114.104.183.26:8688/udp/238.1.79.64:4648
 CCTV高尔夫网球,http://114.104.183.26:8688/udp/238.1.79.58:4600
 CCTV高尔夫网球,http://114.104.141.121:8688/udp/238.1.79.58:4600
+
+央视,#genre#
+CCTV-01,https://smart.pendy.dpdns.org/Smart.php?id=cctv1 
+CCTV-02,https://smart.pendy.dpdns.org/Smart.php?id=cctv2 
+CCTV-03,https://smart.pendy.dpdns.org/Smart.php?id=cctv3 
+CCTV-04,https://smart.pendy.dpdns.org/Smart.php?id=cctv4 
+CCTV-05,https://smart.pendy.dpdns.org/Smart.php?id=cctv5 
+CCTV 5+,https://smart.pendy.dpdns.org/Smart.php?id=cctv5plus 
+CCTV-06,https://smart.pendy.dpdns.org/Smart.php?id=cctv6 
+CCTV-07,https://smart.pendy.dpdns.org/Smart.php?id=cctv7 
+CCTV-08,https://smart.pendy.dpdns.org/Smart.php?id=cctv8hd 
+CCTV-09,https://smart.pendy.dpdns.org/Smart.php?id=cctv9hd 
+CCTV-10,https://smart.pendy.dpdns.org/Smart.php?id=cctv10hd 
+CCTV-11,https://smart.pendy.dpdns.org/Smart.php?id=cctv11 
+CCTV-12,https://smart.pendy.dpdns.org/Smart.php?id=cctv12 
+CCTV-13,https://smart.pendy.dpdns.org/Smart.php?id=cctv13 
+CCTV-14,https://smart.pendy.dpdns.org/Smart.php?id=cctv14 
+CCTV-15,https://smart.pendy.dpdns.org/Smart.php?id=cctv15 
+CGTN_英,https://smart.pendy.dpdns.org/Smart.php?id=CGTN 
 
 卫视,#genre#
 东南卫视,http://114.104.183.26:8688/udp/238.1.78.22:6104
