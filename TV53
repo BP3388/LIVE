@@ -17,6 +17,9 @@ LOUPE4K,https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 
 
 4K,#genre#
+翡翠台4K,http://php.jdshipin.com/TVOD/iptv.php?id=fct4
+Clarity 4K,https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8
+Love Nrture 4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 Love Nature 4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 Love Nature 4K,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=1761&tk=f6cc1e0a0e1a
 Loupe 4K,https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
@@ -39,8 +42,14 @@ CCTV4K,http://tvgslb.hn.chinamobile.com:8089/180000001002/3202309221102084846200
 深圳卫视4K,http://8.138.7.223/tv/gd.php?id=0201
 EuroSport 4K,https://7pal.short.gy/eusport4k
 Sky Sports F1 UHD,https://7pal.short.gy/SSF1uhd
-广东卫视4K,http://xxwx.yoesun.com/xxw/卫视4K.php?id=gd4k
-深圳卫视4K,http://xxwx.yoesun.com/xxw/卫视4K.php?id=sz4k
+4K BEIN BBC EARTH,https://stream.ads.ottera.tv/playlist.m3u8?network_id=53&checkedby:iptvcat.com
+电影4K,http://58.240.140.71:35455/bst/dypd4k@15000000.m3u8
+华数爱上4K,http://192.168.1.4:9188/rtp/239.3.1.236:2000
+欢笑剧场4K,http://58.240.140.71:35455/bst/hxjc4k@15000000.m3u8
+CCTV4K-BST,http://58.240.140.71:35455/bst/cctv4k@15000000
+CCTV16-4K-BST,http://58.240.140.71:35455/bst/cctv16hd4k@15000000.m3u8
+Fox Sports 1,https://smart.pendy.dpdns.org/beesport-2025-proxy.php?id=Fox_Sports_1_Live_TV
+Fox Sports 2,https://smart.pendy.dpdns.org/beesport-2025-proxy.php?id=Fox_Sports_2_Live_TV
 
 数字频道,#genre#
 CHC影迷电影,http://223.82.161.157:899/hls/51/index.m3u8
