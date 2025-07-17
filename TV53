@@ -1,3 +1,5 @@
+TEST IPV6,#genre#
+
 CCTV-1 综合,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
 CCTV-11 戏曲,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226565/index.m3u8
 CCTV-12 社会与法,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8
@@ -58,13 +60,7 @@ CHC动作电影,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/8
 北京新闻,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226437/1.m3u8
 北京新闻,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226512/1.m3u8
 
-TEST,#genre#
-海看测试1,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002031/index.m3u8
-海看测试2,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002032/index.m3u8
-海看测试3,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002033/index.m3u8
-北京卫视4K,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL40000001/index.m3u8
-广东卫视4K,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL40000003/index.m3u8
-深圳卫视4K,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL40000004/index.m3u8
+
 
 4K,#genre#
 翡翠台4K,http://php.jdshipin.com/TVOD/iptv.php?id=fct4
