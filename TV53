@@ -1,8 +1,13 @@
 TEST 2025,#genre#
-CCTV-5,http://f3a27ce6d7ef067cc1adfacd9a03333c.livehwc4.com/live.sxrtv.com/iptv/cctv5.m3u8
-CCTV-7,http://f3a27ce6d7ef067cc1adfacd9a03333c.livehwc4.com/live.sxrtv.com/iptv/cctv7.m3u8
-CCTV-1,http://f3a27ce6d7ef067cc1adfacd9a03333c.livehwc4.com/live.sxrtv.com/iptv/cctv1.m3u8
 
+CCTV-1,http://f3a27ce6d7ef067cc1adfacd9a03333c.livehwc4.com/live.sxrtv.com/iptv/cctv1.m3u8
+CCTV-2,http://f3a27ce6d7ef067cc1adfacd9a03333c.livehwc4.com/live.sxrtv.com/iptv/cctv2.m3u8
+CCTV-3,http://f3a27ce6d7ef067cc1adfacd9a03333c.livehwc4.com/live.sxrtv.com/iptv/cctv3.m3u8
+CCTV-4,http://f3a27ce6d7ef067cc1adfacd9a03333c.livehwc4.com/live.sxrtv.com/iptv/cctv4.m3u8
+CCTV-5,http://f3a27ce6d7ef067cc1adfacd9a03333c.livehwc4.com/live.sxrtv.com/iptv/cctv5.m3u8
+CCTV-5,http://f3a27ce6d7ef067cc1adfacd9a03333c.livehwc4.com/live.sxrtv.com/iptv/cctv5.m3u8
+CCTV-6,http://f3a27ce6d7ef067cc1adfacd9a03333c.livehwc4.com/live.sxrtv.com/iptv/cctv6.m3u8
+CCTV-7,http://f3a27ce6d7ef067cc1adfacd9a03333c.livehwc4.com/live.sxrtv.com/iptv/cctv7.m3u8
 
 TEST IPV6,#genre#
 CCTV-1 综合,http://[2409:8087:5e00:24::10]:6060/200000001898/460000089800010144/
