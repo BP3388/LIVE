@@ -22,6 +22,9 @@ CCTV-17 农业农村,http://[2409:8087:5e00:24::10]:6060/200000001898/4600000898
 
 
 肥羊超清频道,#genre#
+北京卫视4K,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s41/index.m3u8?time=1750762813&sign=c85198df1acf2847e494a88ad731fe99
+
+
 咪咕4K-1,http://121.237.204.65:35455/itv/3000000010000005180.m3u8
 咪咕4K-2,http://121.237.204.65:35455/itv/3000000010000015686.m3u8
 CCTV4K,http://121.237.204.65:35455/nptv/cctv4k.m3u8
@@ -84,6 +87,7 @@ Fashion 4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_d
 
 4K,#genre#
 翡翠台4K,http://php.jdshipin.com/TVOD/iptv.php?id=fct4
+北京卫视4K,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s41/index.m3u8?time=1750762813&sign=c85198df1acf2847e494a88ad731fe99
 Clarity 4K,https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8
 Love Nrture 4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 Love Nature 4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
