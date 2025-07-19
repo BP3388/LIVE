@@ -1,4 +1,4 @@
-TEST 2025,#genre#
+大陆央视,#genre#
 CHC动作电影,http://a9312ecb8ac7413025915c07d453143d.livehwc4.com/live.sxrtv.com/iptv/chcdzdy.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=b0349bb5cb32fe870a773bce61c7ea6a
 
 CHC动作电影,http://[2409:8087:1a01:df::4021]:80/TVOD/88888888/224/3221225555/main.m3u8
@@ -40,11 +40,22 @@ CCTV-14,http://f3a27ce6d7ef067cc1adfacd9a03333c.livehwc4.com/live.sxrtv.com/iptv
 CCTV-15,http://f3a27ce6d7ef067cc1adfacd9a03333c.livehwc4.com/live.sxrtv.com/iptv/cctv15.m3u8
 CCTV-16,http://f3a27ce6d7ef067cc1adfacd9a03333c.livehwc4.com/live.sxrtv.com/iptv/cctv16.m3u8
 CCTV-17,http://f3a27ce6d7ef067cc1adfacd9a03333c.livehwc4.com/live.sxrtv.com/iptv/cctv17.m3u8
-bjws,http://f3a27ce6d7ef067cc1adfacd9a03333c.livehwc4.com/live.sxrtv.com/iptv/bjws.m3u8
+CCTV4K,http://f3a27ce6d7ef067cc1adfacd9a03333c.livehwc4.com/live.sxrtv.com/iptv/cctv4k.m3u8
 
 
-
-
+大陆卫视,#genre#
+广东卫视,http://f3a27ce6d7ef067cc1adfacd9a03333c.livehwc4.com/live.sxrtv.com/iptv/gdws.m3u8
+深圳卫视,http://f3a27ce6d7ef067cc1adfacd9a03333c.livehwc4.com/live.sxrtv.com/iptv/szws.m3u8
+北京卫视,http://f3a27ce6d7ef067cc1adfacd9a03333c.livehwc4.com/live.sxrtv.com/iptv/bjws.m3u8
+东方卫视,http://f3a27ce6d7ef067cc1adfacd9a03333c.livehwc4.com/live.sxrtv.com/iptv/dfws.m3u8
+湖南卫视,http://f3a27ce6d7ef067cc1adfacd9a03333c.livehwc4.com/live.sxrtv.com/iptv/hnws.m3u8
+江苏卫视,http://f3a27ce6d7ef067cc1adfacd9a03333c.livehwc4.com/live.sxrtv.com/iptv/jsws.m3u8
+浙江卫视,http://f3a27ce6d7ef067cc1adfacd9a03333c.livehwc4.com/live.sxrtv.com/iptv/zjws.m3u8
+天津卫视,http://f3a27ce6d7ef067cc1adfacd9a03333c.livehwc4.com/live.sxrtv.com/iptv/tjws.m3u8
+东南卫视,http://f3a27ce6d7ef067cc1adfacd9a03333c.livehwc4.com/live.sxrtv.com/iptv/dnws.m3u8
+山东卫视,http://f3a27ce6d7ef067cc1adfacd9a03333c.livehwc4.com/live.sxrtv.com/iptv/sdws.m3u8
+陕西卫视,http://f3a27ce6d7ef067cc1adfacd9a03333c.livehwc4.com/live.sxrtv.com/iptv/sxws.m3u8
+海南卫视,http://f3a27ce6d7ef067cc1adfacd9a03333c.livehwc4.com/live.sxrtv.com/iptv/bjws.m3u8
 
 
 
@@ -167,8 +178,7 @@ Sky Sports F1 UHD,https://7pal.short.gy/SSF1uhd
 欢笑剧场4K,http://58.240.140.71:35455/bst/hxjc4k@15000000.m3u8
 CCTV4K-BST,http://58.240.140.71:35455/bst/cctv4k@15000000
 CCTV16-4K-BST,http://58.240.140.71:35455/bst/cctv16hd4k@15000000.m3u8
-Fox Sports 1,https://smart.pendy.dpdns.org/beesport-2025-proxy.php?id=Fox_Sports_1_Live_TV
-Fox Sports 2,https://smart.pendy.dpdns.org/beesport-2025-proxy.php?id=Fox_Sports_2_Live_TV
+
 
 数字频道,#genre#
 CHC影迷电影,http://223.82.161.157:899/hls/51/index.m3u8
@@ -277,51 +287,7 @@ CGTN_英,https://smart.pendy.dpdns.org/Smart.php?id=CGTN
 IPv6 ,#genre#
 
 
-卫视,#genre#
-广东卫视,http://223.82.161.157:899/hls/47/index.m3u8
-深圳卫视,http://223.82.161.157:899/hls/49/index.m3u8
-北京卫视,http://223.82.161.157:899/hls/35/index.m3u8
-东方卫视,http://223.82.161.157:899/hls/37/index.m3u8
-湖南卫视,http://223.82.161.157:899/hls/28/index.m3u8
-江苏卫视,http://223.82.161.157:899/hls/30/index.m3u8
-浙江卫视,http://223.82.161.157:899/hls/41/index.m3u8
-厦门卫视,http://223.82.161.157:899/hls/18/index.m3u8
-江西卫视,http://223.82.161.157:899/hls/19/index.m3u8
-天津卫视,http://223.82.161.157:899/hls/45/index.m3u8
-安徽卫视,http://223.82.161.157:899/hls/32/index.m3u8
-东南卫视,http://223.82.161.157:899/hls/33/index.m3u8
-山东卫视,http://223.82.161.157:899/hls/38/index.m3u8
-陕西卫视,http://223.82.161.157:899/hls/39/index.m3u8
-农林卫视,http://223.82.161.157:899/hls/40/index.m3u8
-河北卫视,http://223.82.161.157:899/hls/42/index.m3u8
-四川卫视,http://223.82.161.157:899/hls/43/index.m3u8
-湖北卫视,http://223.82.161.157:899/hls/44/index.m3u8
-广西卫视,http://223.82.161.157:899/hls/46/index.m3u8
-云南卫视,http://223.82.161.157:899/hls/48/index.m3u8
-海南卫视,http://223.82.161.157:899/hls/52/index.m3u8
-辽宁卫视,http://223.82.161.157:899/hls/55/index.m3u8
-黑龙江卫视,http://223.82.161.157:899/hls/56/index.m3u8
-内蒙古卫视,http://223.82.161.157:899/hls/57/index.m3u8
-山西卫视,http://223.82.161.157:899/hls/58/index.m3u8
-吉林卫视,http://223.82.161.157:899/hls/59/index.m3u8
-西藏卫视,http://223.82.161.157:899/hls/60/index.m3u8
-兵团卫视,http://223.82.161.157:899/hls/61/index.m3u8
-新疆卫视,http://223.82.161.157:899/hls/62/index.m3u8
-贵州卫视,http://223.82.161.157:899/hls/63/index.m3u8
-安多卫视,http://223.82.161.157:899/hls/72/index.m3u8
-青海卫视,http://223.82.161.157:899/hls/75/index.m3u8
-宁夏卫视,http://223.82.161.157:899/hls/76/index.m3u8
-甘肃卫视,http://223.82.161.157:899/hls/79/index.m3u8
-重庆卫视,http://223.82.161.157:899/hls/83/index.m3u8
 
-央视文化精品,http://223.82.161.157:899/hls/64/index.m3u8
-兵器科技,http://223.82.161.157:899/hls/65/index.m3u8
-风云音乐,http://223.82.161.157:899/hls/66/index.m3u8
-怀旧剧场,http://223.82.161.157:899/hls/67/index.m3u8
-风云足球,http://223.82.161.157:899/hls/68/index.m3u8
-风云剧场,http://223.82.161.157:899/hls/69/index.m3u8
-第一剧场,http://223.82.161.157:899/hls/70/index.m3u8
-世界地理,http://223.82.161.157:899/hls/71/index.m3u8
 
 体育频道,#genre#
 CCTV5,http://115.190.105.236:8123/live/cctv5?token=OK
