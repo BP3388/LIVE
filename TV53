@@ -1,14 +1,11 @@
 TEST 2025,#genre#
 CHC动作电影,http://a9312ecb8ac7413025915c07d453143d.livehwc4.com/live.sxrtv.com/iptv/chcdzdy.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=b0349bb5cb32fe870a773bce61c7ea6a
-CHC动作电影,http://eastscreen.tv/ooooo.php
+
 CHC动作电影,http://[2409:8087:1a01:df::4021]:80/TVOD/88888888/224/3221225555/main.m3u8
 CHC家庭影院,http://a9312ecb8ac7413025915c07d453143d.livehwc4.com/live.sxrtv.com/iptv/chcjtyy.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=4c7b223043bec87986a323cc5b4f09a5
-CHC家庭影院,http://eastscreen.tv/ooooo.php
+
 CHC家庭影院,http://z.b.bkpcp.top/m.php?id=jtyy
 CHC影迷电影,http://a9312ecb8ac7413025915c07d453143d.livehwc4.com/live.sxrtv.com/iptv/chcymdy.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=42784a62f268d4ab6c530efee1ac87b6
-CHC影迷电影,https://stream1.freetv.fun/chcying-mi-dian-ying-12.ctv
-CHC影迷电影,https://stream1.freetv.fun/chcying-mi-dian-ying-15.ctv
-CHC影迷电影,http://eastscreen.tv/ooooo.php
 CHC影迷电影,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002029/index.m3u8
 CHC影迷电影,http://php.jdshipin.com/TVOD/iptv.php?id=chcymdy
 
@@ -29,9 +26,27 @@ CCTV-2,http://f3a27ce6d7ef067cc1adfacd9a03333c.livehwc4.com/live.sxrtv.com/iptv/
 CCTV-3,http://f3a27ce6d7ef067cc1adfacd9a03333c.livehwc4.com/live.sxrtv.com/iptv/cctv3.m3u8
 CCTV-4,http://f3a27ce6d7ef067cc1adfacd9a03333c.livehwc4.com/live.sxrtv.com/iptv/cctv4.m3u8
 CCTV-5,http://f3a27ce6d7ef067cc1adfacd9a03333c.livehwc4.com/live.sxrtv.com/iptv/cctv5.m3u8
-CCTV-5,http://f3a27ce6d7ef067cc1adfacd9a03333c.livehwc4.com/live.sxrtv.com/iptv/cctv5.m3u8
+CCTV-5+,http://f3a27ce6d7ef067cc1adfacd9a03333c.livehwc4.com/live.sxrtv.com/iptv/cctv5plus.m3u8
 CCTV-6,http://f3a27ce6d7ef067cc1adfacd9a03333c.livehwc4.com/live.sxrtv.com/iptv/cctv6.m3u8
 CCTV-7,http://f3a27ce6d7ef067cc1adfacd9a03333c.livehwc4.com/live.sxrtv.com/iptv/cctv7.m3u8
+
+CCTV-8,http://f3a27ce6d7ef067cc1adfacd9a03333c.livehwc4.com/live.sxrtv.com/iptv/cctv8.m3u8
+CCTV-9,http://f3a27ce6d7ef067cc1adfacd9a03333c.livehwc4.com/live.sxrtv.com/iptv/cctv9.m3u8
+CCTV-10,http://f3a27ce6d7ef067cc1adfacd9a03333c.livehwc4.com/live.sxrtv.com/iptv/cctv10.m3u8
+CCTV-11,http://f3a27ce6d7ef067cc1adfacd9a03333c.livehwc4.com/live.sxrtv.com/iptv/cctv11.m3u8
+CCTV-12,http://f3a27ce6d7ef067cc1adfacd9a03333c.livehwc4.com/live.sxrtv.com/iptv/cctv12.m3u8
+CCTV-13,http://f3a27ce6d7ef067cc1adfacd9a03333c.livehwc4.com/live.sxrtv.com/iptv/cctv13.m3u8
+CCTV-14,http://f3a27ce6d7ef067cc1adfacd9a03333c.livehwc4.com/live.sxrtv.com/iptv/cctv14.m3u8
+CCTV-15,http://f3a27ce6d7ef067cc1adfacd9a03333c.livehwc4.com/live.sxrtv.com/iptv/cctv15.m3u8
+CCTV-16,http://f3a27ce6d7ef067cc1adfacd9a03333c.livehwc4.com/live.sxrtv.com/iptv/cctv16.m3u8
+CCTV-17,http://f3a27ce6d7ef067cc1adfacd9a03333c.livehwc4.com/live.sxrtv.com/iptv/cctv17.m3u8
+bjws,http://f3a27ce6d7ef067cc1adfacd9a03333c.livehwc4.com/live.sxrtv.com/iptv/bjwshd.m3u8
+
+
+
+
+
+
 
 TEST IPV6,#genre#
 CCTV-1 综合,http://[2409:8087:5e00:24::10]:6060/200000001898/460000089800010144/
