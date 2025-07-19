@@ -9,18 +9,6 @@ CHC影迷电影,http://a9312ecb8ac7413025915c07d453143d.livehwc4.com/live.sxrtv.
 CHC影迷电影,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002029/index.m3u8
 CHC影迷电影,http://php.jdshipin.com/TVOD/iptv.php?id=chcymdy
 
-
-
-北京卫视,http://[2409:8087:74d9:21::6]/000000001000PLTV/88888888/224/3221226739/index.m3u8
-北京卫视,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225931/index.m3u8
-北京卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226450/index.m3u8
-北京卫视,http://[2409:8087:74d9:21::6]/270000001322/69900158041111100000002145/index.m3u8
-北京卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226450/index.m3u8
-北京卫视,http://[2409:8087:74d9:21::6]/000000001000PLTV/88888888/224/3221226161/index.m3u8
-北京卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8
-北京卫视,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8
-
-
 CCTV-1,http://f3a27ce6d7ef067cc1adfacd9a03333c.livehwc4.com/live.sxrtv.com/iptv/cctv1.m3u8
 CCTV-2,http://f3a27ce6d7ef067cc1adfacd9a03333c.livehwc4.com/live.sxrtv.com/iptv/cctv2.m3u8
 CCTV-3,http://f3a27ce6d7ef067cc1adfacd9a03333c.livehwc4.com/live.sxrtv.com/iptv/cctv3.m3u8
@@ -48,15 +36,15 @@ CCTV4K,http://f3a27ce6d7ef067cc1adfacd9a03333c.livehwc4.com/live.sxrtv.com/iptv/
 深圳卫视,http://f3a27ce6d7ef067cc1adfacd9a03333c.livehwc4.com/live.sxrtv.com/iptv/szws.m3u8
 北京卫视,http://f3a27ce6d7ef067cc1adfacd9a03333c.livehwc4.com/live.sxrtv.com/iptv/bjws.m3u8
 东方卫视,http://f3a27ce6d7ef067cc1adfacd9a03333c.livehwc4.com/live.sxrtv.com/iptv/dfws.m3u8
-湖南卫视,http://f3a27ce6d7ef067cc1adfacd9a03333c.livehwc4.com/live.sxrtv.com/iptv/hnws.m3u8
-江苏卫视,http://f3a27ce6d7ef067cc1adfacd9a03333c.livehwc4.com/live.sxrtv.com/iptv/jsws.m3u8
+湖南卫视,http://f3a27ce6d7ef067cc1adfacd9a03333c.livehwc4.com/live.sxrtv.com/iptv/hunws.m3u8
+江苏卫视,http://f3a27ce6d7ef067cc1adfacd9a03333c.livehwc4.com/live.sxrtv.com/iptv/jsuws.m3u8
 浙江卫视,http://f3a27ce6d7ef067cc1adfacd9a03333c.livehwc4.com/live.sxrtv.com/iptv/zjws.m3u8
 天津卫视,http://f3a27ce6d7ef067cc1adfacd9a03333c.livehwc4.com/live.sxrtv.com/iptv/tjws.m3u8
 东南卫视,http://f3a27ce6d7ef067cc1adfacd9a03333c.livehwc4.com/live.sxrtv.com/iptv/dnws.m3u8
 山东卫视,http://f3a27ce6d7ef067cc1adfacd9a03333c.livehwc4.com/live.sxrtv.com/iptv/sdws.m3u8
 陕西卫视,http://f3a27ce6d7ef067cc1adfacd9a03333c.livehwc4.com/live.sxrtv.com/iptv/sxws.m3u8
 海南卫视,http://f3a27ce6d7ef067cc1adfacd9a03333c.livehwc4.com/live.sxrtv.com/iptv/bjws.m3u8
-
+河南卫视,http://f3a27ce6d7ef067cc1adfacd9a03333c.livehwc4.com/live.sxrtv.com/iptv/hnws.m3u8
 
 
 TEST IPV6,#genre#
@@ -80,20 +68,6 @@ CCTV-16 奥林匹克,http://[2409:8087:5e00:24::11]:6060/200000001898/4600000898
 CCTV-17 农业农村,http://[2409:8087:5e00:24::10]:6060/200000001898/460000089800010210/
 
 
-
-肥羊超清频道,#genre#
-北京卫视4K,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s41/index.m3u8?time=1750762813&sign=c85198df1acf2847e494a88ad731fe99
-
-
-咪咕4K-1,http://121.237.204.65:35455/itv/3000000010000005180.m3u8
-咪咕4K-2,http://121.237.204.65:35455/itv/3000000010000015686.m3u8
-CCTV4K,http://121.237.204.65:35455/nptv/cctv4k.m3u8
-CCTV8K,http://121.237.204.65:35455/nptv/cctv8k.m3u8
-Love Nature 4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-Love Nature 4K,http://143.244.60.30/LOVE_NATURE/index.m3u8
-Loupe 4K,https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
-Fashion 4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
-北京纪实科教8K,https://gdcucc.v1.mk/gdcucc/brtv8k.m3u8
 
 
 体育AAA,#genre#
@@ -156,12 +130,10 @@ Loupe 4K,https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 Loupe 4K,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=4726&tk=f6cc1e0a0e1a
 Fashion 4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 Fashion 4K,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=9831&tk=f6cc1e0a0e1a
-CCTV4K A,http://192.168.31.2:35455/tptv/G_CCTV-4K-HD.m3u8
+
 苏州4K,https://live-auth.51kandianshi.com/szgd/csztv4k_hd.m3u8
 河北4K,
 南国都市4K,
-CCTV16 4k(试看),http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000085000000178450/main.m3u8?stbid=
-CCTV4K,http://tvgslb.hn.chinamobile.com:8089/180000001002/32023092211020848462000290559536/main.m3u8?stbid=
 
 咪咕体育1,http://home.kuaidi521.com:35455/itv/3000000010000005180.m3u8
 咪咕国际4K,http://home.kuaidi521.com:35455/itv/3000000010000015686.m3u8
@@ -172,9 +144,9 @@ CCTV4K,http://tvgslb.hn.chinamobile.com:8089/180000001002/3202309221102084846200
 深圳卫视4K,http://8.138.7.223/tv/gd.php?id=0201
 EuroSport 4K,https://7pal.short.gy/eusport4k
 Sky Sports F1 UHD,https://7pal.short.gy/SSF1uhd
-4K BEIN BBC EARTH,https://stream.ads.ottera.tv/playlist.m3u8?network_id=53&checkedby:iptvcat.com
-电影4K,http://58.240.140.71:35455/bst/dypd4k@15000000.m3u8
-华数爱上4K,http://192.168.1.4:9188/rtp/239.3.1.236:2000
+
+华数电影4K,http://58.240.140.71:35455/bst/dypd4k@15000000.m3u8
+爱上4K,
 欢笑剧场4K,http://58.240.140.71:35455/bst/hxjc4k@15000000.m3u8
 CCTV4K-BST,http://58.240.140.71:35455/bst/cctv4k@15000000
 CCTV16-4K-BST,http://58.240.140.71:35455/bst/cctv16hd4k@15000000.m3u8
@@ -222,14 +194,6 @@ CNBC,http://125.227.210.55:8152/VideoInput/play.ts
 无线新闻,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn
 无线新闻,https://v2hcdn.jdshipin.com/news/news.stream/chunklist_w105.m3u8
 无线新闻,http://v2hcdn.jdshipin.com/news/news.stream/chunklist_w1005.m3u8
-
-
-
-
-
-
-
-
 
 
 
