@@ -26,7 +26,7 @@ CCTV-2,http://f3a27ce6d7ef067cc1adfacd9a03333c.livehwc4.com/live.sxrtv.com/iptv/
 CCTV-3,http://f3a27ce6d7ef067cc1adfacd9a03333c.livehwc4.com/live.sxrtv.com/iptv/cctv3.m3u8
 CCTV-4,http://f3a27ce6d7ef067cc1adfacd9a03333c.livehwc4.com/live.sxrtv.com/iptv/cctv4.m3u8
 CCTV-5,http://f3a27ce6d7ef067cc1adfacd9a03333c.livehwc4.com/live.sxrtv.com/iptv/cctv5.m3u8
-CCTV-5+,http://f3a27ce6d7ef067cc1adfacd9a03333c.livehwc4.com/live.sxrtv.com/iptv/cctv5plus.m3u8
+CCTV-5+,http://f3a27ce6d7ef067cc1adfacd9a03333c.livehwc4.com/live.sxrtv.com/iptv/cctv5p.m3u8
 CCTV-6,http://f3a27ce6d7ef067cc1adfacd9a03333c.livehwc4.com/live.sxrtv.com/iptv/cctv6.m3u8
 CCTV-7,http://f3a27ce6d7ef067cc1adfacd9a03333c.livehwc4.com/live.sxrtv.com/iptv/cctv7.m3u8
 
@@ -40,7 +40,7 @@ CCTV-14,http://f3a27ce6d7ef067cc1adfacd9a03333c.livehwc4.com/live.sxrtv.com/iptv
 CCTV-15,http://f3a27ce6d7ef067cc1adfacd9a03333c.livehwc4.com/live.sxrtv.com/iptv/cctv15.m3u8
 CCTV-16,http://f3a27ce6d7ef067cc1adfacd9a03333c.livehwc4.com/live.sxrtv.com/iptv/cctv16.m3u8
 CCTV-17,http://f3a27ce6d7ef067cc1adfacd9a03333c.livehwc4.com/live.sxrtv.com/iptv/cctv17.m3u8
-bjws,http://f3a27ce6d7ef067cc1adfacd9a03333c.livehwc4.com/live.sxrtv.com/iptv/bjwshd.m3u8
+bjws,http://f3a27ce6d7ef067cc1adfacd9a03333c.livehwc4.com/live.sxrtv.com/iptv/bjws.m3u8
 
 
 
