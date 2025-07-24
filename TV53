@@ -130,8 +130,31 @@ cctv8k,http://live.chinacert.cftest5.cn/nptv/cctv8k.m3u8
 云南卫视,http://live.chinacert.cftest5.cn/nptv/yunnan.m3u8
 兵团卫视,https://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
 
-
-
+TW RTMP,#genre#
+4KUHD (4k),http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010006/1.m3u8
+4KUHD (4k),http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000004000011651/1.m3u8
+CCTV-1,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010144/1.m3u8
+CCTV-2,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010211/1.m3u8
+CCTV-3,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010212/1.m3u8
+CCTV-4,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010017/1.m3u8
+CCTV-5,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010139/1.m3u8
+CCTV-5+,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010202/1.m3u8
+CCTV-6,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010214/1.m3u8
+CCTV-7,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010215/1.m3u8
+CCTV-8,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010216/1.m3u8
+台视,rtmp://f13h.mine.nu/sat/tv071
+中视,rtmp://f13h.mine.nu/sat/tv091
+华视,rtmp://f13h.mine.nu/sat/tv111
+民视,rtmp://f13h.mine.nu/sat/tv051
+纬来体育,rtmp://f13h.mine.nu/sat/tv721
+纬来育乐,rtmp://f13h.mine.nu/sat/tv701
+纬来日本,rtmp://f13h.mine.nu/sat/tv771
+东森财经,rtmp://f13h.mine.nu/sat/tv571
+东森超视,rtmp://f13h.mine.nu/sat/tv331
+非凡新闻,rtmp://f13h.mine.nu/sat/tv581
+MoMo综合,rtmp://f13h.mine.nu/sat/tv761
+ELEVEN体育1,rtmp://f13h.mine.nu/sat/tv731
+ELEVEN体育2,rtmp://f13h.mine.nu/sat/tv741
 
 
 
