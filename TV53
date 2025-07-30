@@ -1,4 +1,11 @@
 TEST 53,#genre#
+CCTV5+,http://tv.328326.com/iptv/tvzb82.php?id=cctv5p#http://[2409:8087:2001:20:2800:0:df6e:eb26]/ott.mobaibox.com/PLTV/1/224/3221228277/index.m3u8
+CCTV5+,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001334/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CCTV4K1,http://tv.328326.com/iptv/tvzb82.php?id=cctv4k
+CCTV4K2,http://[2409:8087:2001:20:2800:0:df6e:eb13]/ott.mobaibox.com/PLTV/4/224/3221228228/index.m3u8
+CCTV4K3,http://[2409:8087:2001:20:2800:0:df6e:eb25]/ott.mobaibox.com/PLTV/4/224/3221228472/index.m3u8
+央视台球,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinam
+
 翡翠台4K,http://cdn.veryfast.filegear-sg.me/live/fct4k/stream.m3u8
 翡翠台,http://cdn6.veryfast.filegear-sg.me/live/fct4k/stream.m3u8
 凤凰中文,http://cdn.veryfast.filegear-sg.me/live/fhzw/stream.m3u8
