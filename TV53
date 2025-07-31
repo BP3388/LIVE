@@ -17,12 +17,7 @@ CCTV-14少儿,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/888
 CCTV-15音乐,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226333/1.m3u8?
 CCTV-16奥林匹克,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227002/1.m3u8?
 CCTV-17农业农村,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8?
-CGTN英语,https://0472.org/hls/cgtn.m3u8
-CGTN记录,https://0472.org/hls/cgtnd.m3u8
-CGTN俄语,https://0472.org/hls/cgtne.m3u8
-CGTN法语,https://0472.org/hls/cgtnf.m3u8
-CGTN西语,https://0472.org/hls/cgtnx.m3u8
-CGTN阿语,https://0472.org/hls/cgtna.m3u8
+
 北京卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226900/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EcYPi33WFyhvd6SjmqUKhJg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 东方卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226898/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E0uh4lyjjBCCN7TCq21vSIQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 浙江卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226899/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ETYfTgTra_pUx2cPrgZ_BDw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
@@ -66,12 +61,6 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 
 
 TEST 53,#genre#
-1905国内,http://xxwx.yoesun.com/1905dy.php?id=1905a
-1905国外,http://xxwx.yoesun.com/1905dy.php?id=1905b
-1905国内A,http://dns.yiandrive.com:15907/1905/1905a
-1905国外A,http://dns.yiandrive.com:15907/1905/1905b
-凤凰资讯,http://dns.yiandrive.com:15907/phenix/fhzx
-
 深圳卫视4K,https://livepull-tcms.sztv.com.cn:443/live/sz4Kpgm.m3u8
 深圳卫视4K(备),http://push-rtmp-hs-spe-f5.douyincdn.com/live/xiangjiaogeszws4k.flv
 广东卫视4K,http://xxwx.yoesun.com/xxw/卫视4K.php?id=gd4k
@@ -84,16 +73,6 @@ TEST 53,#genre#
 
 
 大陆央视,#genre#
-CHC动作电影,http://a9312ecb8ac7413025915c07d453143d.livehwc4.com/live.sxrtv.com/iptv/chcdzdy.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=b0349bb5cb32fe870a773bce61c7ea6a
-
-CHC动作电影,http://[2409:8087:1a01:df::4021]:80/TVOD/88888888/224/3221225555/main.m3u8
-CHC家庭影院,http://a9312ecb8ac7413025915c07d453143d.livehwc4.com/live.sxrtv.com/iptv/chcjtyy.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=4c7b223043bec87986a323cc5b4f09a5
-
-CHC家庭影院,http://z.b.bkpcp.top/m.php?id=jtyy
-CHC影迷电影,http://a9312ecb8ac7413025915c07d453143d.livehwc4.com/live.sxrtv.com/iptv/chcymdy.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=42784a62f268d4ab6c530efee1ac87b6
-CHC影迷电影,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002029/index.m3u8
-CHC影迷电影,http://php.jdshipin.com/TVOD/iptv.php?id=chcymdy
-
 CCTV-1,http://f3a27ce6d7ef067cc1adfacd9a03333c.livehwc4.com/live.sxrtv.com/iptv/cctv1.m3u8
 CCTV-2,http://f3a27ce6d7ef067cc1adfacd9a03333c.livehwc4.com/live.sxrtv.com/iptv/cctv2.m3u8
 CCTV-3,http://f3a27ce6d7ef067cc1adfacd9a03333c.livehwc4.com/live.sxrtv.com/iptv/cctv3.m3u8
@@ -131,89 +110,81 @@ CCTV4K,http://f3a27ce6d7ef067cc1adfacd9a03333c.livehwc4.com/live.sxrtv.com/iptv/
 河南卫视,http://f3a27ce6d7ef067cc1adfacd9a03333c.livehwc4.com/live.sxrtv.com/iptv/hnws.m3u8
 
 📺央视频道,#genre#
-CCTV1综合,http://live.chinacert.cftest5.cn/mgtv/608807420.m3u8
-CCTV2财经,http://live.chinacert.cftest5.cn/mgtv/631780532.m3u8
-CCTV3综艺,http://live.chinacert.cftest5.cn/mgtv/624878271.m3u8
-CCTV4中文国际,http://live.chinacert.cftest5.cn/mgtv/631780421.m3u8
-CCTV5体育,http://live.chinacert.cftest5.cn/mgtv/641886683.m3u8
-CCTV5+体育赛事,http://live.chinacert.cftest5.cn/mgtv/641886773.m3u8
-CCTV6电影,http://live.chinacert.cftest5.cn/mgtv/624878396.m3u8
-CCTV7国防军事,http://live.chinacert.cftest5.cn/mgtv/673168121.m3u8
-CCTV8电视剧,http://live.chinacert.cftest5.cn/mgtv/624878356.m3u8
-CCTV9纪录,http://live.chinacert.cftest5.cn/mgtv/673168140.m3u8
-CCTV10科教,http://live.chinacert.cftest5.cn/mgtv/624878405.m3u8
-CCTV11戏曲,http://live.chinacert.cftest5.cn/mgtv/667987558.m3u8
-CCTV12社会与法,http://live.chinacert.cftest5.cn/mgtv/673168185.m3u8
-CCTV13新闻,http://live.chinacert.cftest5.cn/mgtv/608807423.m3u8
-CCTV14少儿,http://live.chinacert.cftest5.cn/mgtv/624878440.m3u8
-CCTV15音乐,http://live.chinacert.cftest5.cn/mgtv/673168223.m3u8
-CCTV17农业农村,http://live.chinacert.cftest5.cn/mgtv/673168256.m3u8
-
-CHC家庭影院,http://live.chinacert.cftest5.cn/mgtv/644368373.m3u8
-CHC动作电影,http://live.chinacert.cftest5.cn/mgtv/644368714.m3u8
-CETV-1,http://live.chinacert.cftest5.cn/mgtv/923287154.m3u8
-CETV-2,http://live.chinacert.cftest5.cn/mgtv/923287211.m3u8
-CETV-4,http://live.chinacert.cftest5.cn/mgtv/923287339.m3u8
-
-CHC家庭影院,http://yemingjkl.x3322.net:35455/mgtv/644368373.m3u8
-CHC动作电影,http://yemingjkl.x3322.net:35455/mgtv/644368714.m3u8
-CETV-1,http://yemingjkl.x3322.net:35455/mgtv/923287154.m3u8
-CETV-2,http://yemingjkl.x3322.net:35455/mgtv/923287211.m3u8
-CETV-4,http://yemingjkl.x3322.net:35455/mgtv/923287339.m3u8
-
+CCTV1-综合,http://xn--0n8h.zone.id/bst2.php?id=cctv1
+CCTV2-财经,http://xn--0n8h.zone.id/bst2.php?id=cctv2
+CCTV3-综艺,http://xn--0n8h.zone.id/bst2.php?id=cctv3
+CCTV3-综艺,http://xn--0n8h.zone.id/bst2.php?id=cctv32
+CCTV4-国际,http://xn--0n8h.zone.id/bst2.php?id=cctv4
+CCTV5-体育,http://xn--0n8h.zone.id/bst2.php?id=cctv5
+CCTV5-体育,http://xn--0n8h.zone.id/bst2.php?id=cctv52
+CCTV5+体育赛事,http://xn--0n8h.zone.id/bst2.php?id=cctv5p
+CCTV6-电影,http://xn--0n8h.zone.id/bst2.php?id=cctv6
+CCTV6-电影,http://xn--0n8h.zone.id/bst2.php?id=cctv62
+CCTV7-军农,http://xn--0n8h.zone.id/bst2.php?id=cctv7
+CCTV8-电视剧,http://xn--0n8h.zone.id/bst2.php?id=cctv8
+CCTV8-电视剧,http://xn--0n8h.zone.id/bst2.php?id=cctv82
+CCTV9-纪录,http://xn--0n8h.zone.id/bst2.php?id=cctv9
+CCTV10-科教,http://xn--0n8h.zone.id/bst2.php?id=cctv10
+CCTV11-戏曲,http://xn--0n8h.zone.id/bst2.php?id=cctv11
+CCTV12-社会与法,http://xn--0n8h.zone.id/bst2.php?id=cctv12
+CCTV13-新闻,http://xn--0n8h.zone.id/bst2.php?id=cctv13
+CCTV14-少儿,http://xn--0n8h.zone.id/bst2.php?id=cctv14
+CCTV15-音乐,http://xn--0n8h.zone.id/bst2.php?id=cctv15
+CCTV16-奥林匹克,http://xn--0n8h.zone.id/bst2.php?id=cctv16
+CCTV17-农业农村,http://xn--0n8h.zone.id/bst2.php?id=cctv17
 cctv16,http://live.chinacert.cftest5.cn/nptv/cctv16.m3u8
 cctv4k,http://live.chinacert.cftest5.cn/nptv/cctv4k.m3u8
 cctv8k,http://live.chinacert.cftest5.cn/nptv/cctv8k.m3u8
 
 📺卫视频道,#genre#
-东方卫视,http://live.chinacert.cftest5.cn/mgtv/651632648.m3u8
-江苏卫视,http://live.chinacert.cftest5.cn/mgtv/623899368.m3u8
-广东卫视,http://live.chinacert.cftest5.cn/mgtv/608831231.m3u8
-江西卫视,http://live.chinacert.cftest5.cn/mgtv/783847495.m3u8
-河南卫视,http://live.chinacert.cftest5.cn/mgtv/790187291.m3u8
-陕西卫视,http://live.chinacert.cftest5.cn/mgtv/738910838.m3u8
-大湾区卫视,http://live.chinacert.cftest5.cn/mgtv/608917627.m3u8
-湖北卫视,http://live.chinacert.cftest5.cn/mgtv/947472496.m3u8
-吉林卫视,http://live.chinacert.cftest5.cn/mgtv/947472500.m3u8
-青海卫视,http://live.chinacert.cftest5.cn/mgtv/947472506.m3u8
-东南卫视,http://live.chinacert.cftest5.cn/mgtv/849116810.m3u8
-海南卫视,http://live.chinacert.cftest5.cn/mgtv/947472502.m3u8
-海峡卫视,http://live.chinacert.cftest5.cn/mgtv/849119120.m3u8
+湖南卫视,http://xn--0n8h.zone.id/bst2.php?id=hunws
+浙江卫视,http://xn--0n8h.zone.id/bst2.php?id=zjws
+江苏卫视,http://xn--0n8h.zone.id/bst2.php?id=jsws
+东方卫视,http://xn--0n8h.zone.id/bst2.php?id=dfws
+北京卫视,http://xn--0n8h.zone.id/bst2.php?id=bjws
+广东卫视,http://xn--0n8h.zone.id/bst2.php?id=gdws
+深圳卫视,http://xn--0n8h.zone.id/bst2.php?id=szws
+东南卫视,http://xn--0n8h.zone.id/bst2.php?id=dnws
+山东卫视,http://xn--0n8h.zone.id/bst2.php?id=sdws
+安徽卫视,http://xn--0n8h.zone.id/bst2.php?id=ahws
+天津卫视,http://xn--0n8h.zone.id/bst2.php?id=tjws
+湖北卫视,http://xn--0n8h.zone.id/bst2.php?id=hubws
+辽宁卫视,http://xn--0n8h.zone.id/bst2.php?id=lnws
+江西卫视,http://xn--0n8h.zone.id/bst2.php?id=jxws
+河北卫视,http://xn--0n8h.zone.id/bst2.php?id=hbws
+黑龙江卫视,http://xn--0n8h.zone.id/bst2.php?id=hljws
+重庆卫视,http://xn--0n8h.zone.id/bst2.php?id=cqws
+贵州卫视,http://xn--0n8h.zone.id/bst2.php?id=gzws
+吉林卫视,http://xn--0n8h.zone.id/bst2.php?id=jlws
+四川卫视,http://xn--0n8h.zone.id/bst2.php?id=scws
+海南卫视,http://xn--0n8h.zone.id/bst2.php?id=hinws
+河南卫视,http://xn--0n8h.zone.id/bst2.php?id=hnws
+广西卫视,http://xn--0n8h.zone.id/bst2.php?id=gxws
+山西卫视,http://xn--0n8h.zone.id/bst2.php?id=sxws
+云南卫视,http://xn--0n8h.zone.id/bst2.php?id=ynws
+陕西卫视,http://xn--0n8h.zone.id/bst2.php?id=saws
+内蒙古卫视,http://xn--0n8h.zone.id/bst2.php?id=nmgws
+甘肃卫视,http://xn--0n8h.zone.id/bst2.php?id=gsws
+宁夏卫视,http://xn--0n8h.zone.id/bst2.php?id=nxws
+青海卫视,http://xn--0n8h.zone.id/bst2.php?id=qhws
+新疆卫视,http://xn--0n8h.zone.id/bst2.php?id=xjws
+西藏卫视,http://xn--0n8h.zone.id/bst2.php?id=xzws
+兵团卫视,http://xn--0n8h.zone.id/bst2.php?id=btws
+三沙卫视,http://xn--0n8h.zone.id/bst2.php?id=ssws
+安多卫视,http://xn--0n8h.zone.id/bst2.php?id=adws
+中国天气,http://xn--0n8h.zone.id/bst2.php?id=zgtq
 
-北京卫视,http://live.chinacert.cftest5.cn/nptv/beijing.m3u8
-湖南卫视,http://live.chinacert.cftest5.cn/nptv/hunan.m3u8
-江苏卫视,http://live.chinacert.cftest5.cn/nptv/jiangsu.m3u8
-东方卫视,http://live.chinacert.cftest5.cn/nptv/dongfang.m3u8
-浙江卫视,http://live.chinacert.cftest5.cn/nptv/zhejiang.m3u8
-湖北卫视,http://live.chinacert.cftest5.cn/nptv/hubei.m3u8
-天津卫视,http://live.chinacert.cftest5.cn/nptv/tianjing.m3u8
-山东卫视,http://live.chinacert.cftest5.cn/nptv/shandong.m3u8
-辽宁卫视,http://live.chinacert.cftest5.cn/nptv/liaoning.m3u8
-安徽卫视,http://live.chinacert.cftest5.cn/nptv/anhui.m3u8
-黑龙江卫视,http://live.chinacert.cftest5.cn/nptv/heilongjiang.m3u8
-贵州卫视,http://live.chinacert.cftest5.cn/nptv/guizhou.m3u8
-东南卫视,http://live.chinacert.cftest5.cn/nptv/dongnan.m3u8
-重庆卫视,http://live.chinacert.cftest5.cn/nptv/chongqing.m3u8
-江西卫视,http://live.chinacert.cftest5.cn/nptv/jiangxi.m3u8
-广东卫视,http://live.chinacert.cftest5.cn/nptv/guangdong.m3u8
-河北卫视,http://live.chinacert.cftest5.cn/nptv/hebei.m3u8
-深圳卫视,http://live.chinacert.cftest5.cn/nptv/shenzheng.m3u8
-吉林卫视,http://live.chinacert.cftest5.cn/nptv/jiling.m3u8
-河南卫视,http://live.chinacert.cftest5.cn/nptv/henan.m3u8
-四川卫视,http://live.chinacert.cftest5.cn/nptv/sichuan.m3u8
-河北卫视,http://live.chinacert.cftest5.cn/nptv/hebei.m3u8
-广西卫视,http://live.chinacert.cftest5.cn/nptv/guangxi.m3u8
-陕西卫视,http://live.chinacert.cftest5.cn/nptv/shanxiws.m3u8
-山西卫视,http://live.chinacert.cftest5.cn/nptv/shanxi.m3u8
-内蒙古卫视,http://live.chinacert.cftest5.cn/nptv/neimenggu.m3u8
-青海卫视,http://live.chinacert.cftest5.cn/nptv/qinghai.m3u8
-海南卫视,http://live.chinacert.cftest5.cn/nptv/hainan.m3u8
-宁夏卫视,http://live.chinacert.cftest5.cn/nptv/ningxia.m3u8
-西藏卫视,http://live.chinacert.cftest5.cn/nptv/xizang.m3u8
-新疆卫视,http://live.chinacert.cftest5.cn/nptv/xinjiang.m3u8
-甘肃卫视,http://live.chinacert.cftest5.cn/nptv/gansu.m3u8
-云南卫视,http://live.chinacert.cftest5.cn/nptv/yunnan.m3u8
-兵团卫视,https://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
+
+
+
+
+
+
+
+
+
+
+
 
 TW RTMP,#genre#
 4KUHD (4k),http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010006/1.m3u8
@@ -263,85 +234,6 @@ ELEVEN体育3,rtmp://f13h.mine.nu/sat/tv751
 
 
 
-
-
-
-
-TEST IPV6,#genre#
-CCTV-1 综合,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226895/1.m3u8?
-CCTV-2 财经,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226893/1.m3u8?
-CCTV-3 综艺,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226471/1.m3u8?
-CCTV-4 中文国际,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226335/1.m3u8?
-CCTV-5 体育,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226469/1.m3u8?
-CCTV-5+ 体育赛事,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226894/1.m3u8?
-CCTV-6 电影,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226468/1.m3u8?
-CCTV-7 国防军事,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226946/1.m3u8?
-CCTV-8 电视剧,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226485/1.m3u8?
-CCTV-9 纪录,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226944/1.m3u8?
-CCTV-10 科教,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226937/1.m3u8?
-CCTV-11 戏曲,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226334/1.m3u8?
-CCTV-12 社会与法,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226942/1.m3u8?
-CCTV-13 新闻,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226316/1.m3u8?
-CCTV-14 少儿,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226947/1.m3u8?
-CCTV-15 音乐,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226333/1.m3u8?
-CCTV-16 奥林匹克,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227002/1.m3u8?
-CCTV-17 农业农村,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8?
-北京卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226900/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EcYPi33WFyhvd6SjmqUKhJg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
-东方卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226898/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E0uh4lyjjBCCN7TCq21vSIQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
-浙江卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226899/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ETYfTgTra_pUx2cPrgZ_BDw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
-江苏卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226897/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E0BmO6uHF7WFoTed__Xr3NQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
-广东卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226961/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E2MGyx659D_aaDPP0qt3NgA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
-深圳卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226959/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EGrVNEZREjuNVKiTJo2mtwg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
-海南卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227029/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EEuBMjt2kLMD8fAO7QYER7Q%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
-
-
-体育AAA,#genre#
-体育频道|Astro Premier League 1,https://smart.pendy.dpdns.org/Smart.php?id=go_assp1
-体育频道|Astro EPL 1 backup,https://smart.pendy.dpdns.org/Smart.php?id=go_assp1x
-体育频道|Astro Premier League 2,https://smart.pendy.dpdns.org/Smart.php?id=go_assp2
-体育频道|Astro Grandstand,https://smart.pendy.dpdns.org/Smart.php?id=go_assp3
-体育频道|Astro Football,https://smart.pendy.dpdns.org/Smart.php?id=go_assp4
-体育频道|Astro Sports Plus,https://smart.pendy.dpdns.org/Smart.php?id=go_sportsplus
-体育频道|Astro Badminton 1,https://smart.pendy.dpdns.org/Smart.php?id=go_badminton1
-体育频道|Astro Badminton 2,https://smart.pendy.dpdns.org/Smart.php?id=go_badminton2
-体育频道|Astro W-Sports,https://smart.pendy.dpdns.org/Smart.php?id=go_assp5
-体育频道|Supersports 1,https://smart.pendy.dpdns.org/Smart.php?id=Assp1
-体育频道|Supersports 2,https://smart.pendy.dpdns.org/Smart.php?id=Assp2
-体育频道|Supersports 3,https://smart.pendy.dpdns.org/Smart.php?id=Assp3
-体育频道|Supersports 4,https://smart.pendy.dpdns.org/Smart.php?id=Assp4
-体育频道|WWE,https://smart.pendy.dpdns.org/Smart.php?id=Wwe
-体育频道|Fight Sports,https://smart.pendy.dpdns.org/Smart.php?id=Fs
-体育频道|NBA TV,https://smart.pendy.dpdns.org/Smart.php?id=Nba
-体育频道|Astro Cricket,https://smart.pendy.dpdns.org/Smart.php?id=Acricket
-体育频道|Astro Golf,https://smart.pendy.dpdns.org/Smart.php?id=Agolf
-体育频道|Tnt Sports 1,https://smart.pendy.dpdns.org/Smart.php?id=6fac0aaead
-体育频道|TNT Sports 2,https://smart.pendy.dpdns.org/Smart.php?id=d9a76a79cc
-体育频道|TNT Sports 3,https://smart.pendy.dpdns.org/Smart.php?id=5fea4d73db
-体育频道|TNT Sports 4,https://smart.pendy.dpdns.org/Smart.php?id=tntsport4
-体育频道|Sony Ten 1,https://smart.pendy.dpdns.org/Smart.php?id=ten1_raj
-体育频道|Sony Ten 2,https://smart.pendy.dpdns.org/Smart.php?id=ten2_raj
-体育频道|Sony Ten 3,https://smart.pendy.dpdns.org/Smart.php?id=ten3_raj
-体育频道|SPOTV 1 HD,https://smart.pendy.dpdns.org/Smart.php?id=go_spotv
-体育频道|SPO TV 2,https://smart.pendy.dpdns.org/Smart.php?id=go_spotv2
-体育频道|Skysports F1,https://smart.pendy.dpdns.org/Smart.php?id=tiankongf1
-体育频道|Skysports Cricket,https://smart.pendy.dpdns.org/Smart.php?id=tiankongcricket
-体育频道|Skysports EPL,https://smart.pendy.dpdns.org/Smart.php?id=tiankongepl
-体育频道|Skysports Main Event,https://smart.pendy.dpdns.org/Smart.php?id=tiankongmain
-体育频道|Skysports News,https://smart.pendy.dpdns.org/Smart.php?id=tiankongnews
-体育频道|Skysports Mix,https://smart.pendy.dpdns.org/Smart.php?id=tiankongmix
-体育频道|CCTV-5 体育频道,https://smart.pendy.dpdns.org/Smart.php?id=cctv5
-体育频道|CCTV-5+ 体育赛事 HD,https://smart.pendy.dpdns.org/Smart.php?id=cctv5plus
-体育频道|爱尔达体育2台,https://smart.pendy.dpdns.org/Smart.php?id=eltasport2_twn
-体育频道|爱尔达体育3台,https://smart.pendy.dpdns.org/Smart.php?id=eltasport3_twn
-体育频道|Rugby Pass TV,https://smart.pendy.dpdns.org/Smart.php?id=Rugbypasstv
-体育频道|RTM Sports HD,https://smart.pendy.dpdns.org/Smart.php?id=Rtmsport
-体育频道|Arena,https://smart.pendy.dpdns.org/Smart.php?id=Arena
-体育频道|Arena 2,https://smart.pendy.dpdns.org/Smart.php?id=Arena2
-体育频道|BolaArena 1,https://smart.pendy.dpdns.org/Smart.php?id=Bolaarena1
-体育频道|BolaArena 2,https://smart.pendy.dpdns.org/Smart.php?id=Bolaarena2
-体育频道|Astro Beinsports 1,https://smart.pendy.dpdns.org/Smart.php?id=Astrobein1
-体育频道|Astro Beinsports 2,https://smart.pendy.dpdns.org/Smart.php?id=Astrobein2
-体育频道|Astro Beinsports 3,https://smart.pendy.dpdns.org/Smart.php?id=Astrobein3
 
 
 4K,#genre#
@@ -480,8 +372,6 @@ CCTV-14,https://smart.pendy.dpdns.org/Smart.php?id=cctv14
 CCTV-15,https://smart.pendy.dpdns.org/Smart.php?id=cctv15 
 CGTN_英,https://smart.pendy.dpdns.org/Smart.php?id=CGTN 
 
-
-IPv6 ,#genre#
 
 
 
