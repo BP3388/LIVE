@@ -61,6 +61,8 @@ CCTV-17农业农村,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PL
 
 
 TEST 53,#genre#
+CCTV-4K咪咕,http://op.ccwwf.cn:35455/nptv/cctv4k.m3u8
+CCTV-8+咪咕K,http://op.ccwwf.cn:35455/nptv/cctv8k.m3u8
 深圳卫视4K,https://livepull-tcms.sztv.com.cn:443/live/sz4Kpgm.m3u8
 深圳卫视4K(备),http://push-rtmp-hs-spe-f5.douyincdn.com/live/xiangjiaogeszws4k.flv
 广东卫视4K,http://xxwx.yoesun.com/xxw/卫视4K.php?id=gd4k
