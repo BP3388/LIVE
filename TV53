@@ -2,14 +2,14 @@ TEST专区,#genre#
 CCTV-1综合,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226895/1.m3u8?
 CCTV-2财经,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226893/1.m3u8?
 CCTV-3综艺,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226471/1.m3u8?
-CINEMAX,http://125.227.210.55:8151/VideoInput/play.ts 
+CINEMAX,http://125.227.210.37:8151/VideoInput/play.ts 
 CNBC,http://125.227.210.55:8152/VideoInput/play.ts 
-HBO HD,http://125.227.210.55:8153/VideoInput/play.ts 
+HBO HD,http://125.227.210.37:8153/VideoInput/play.ts 
 Discovery,http://125.227.210.55:8154/VideoInput/play.ts 
-緯來體育台,http://125.227.210.55:8155/VideoInput/play.ts 
-三立台灣台,http://125.227.210.55:8160/VideoInput/play.ts 
+緯來體育台,http://125.227.210.37:8155/VideoInput/play.ts 
+三立台灣台,http://125.227.210.37:8160/VideoInput/play.ts 
 Bloomberg,http://125.227.210.55:8161/VideoInput/play.ts 
-三立新聞,http://125.227.210.55:8162/VideoInput/play.ts 
+三立新聞,http://125.227.210.37:8162/VideoInput/play.ts 
 BBC new,http://125.227.210.55:8165/VideoInput/play.ts 
 CNN new,http://125.227.210.55:8166/VideoInput/play.ts 
 CN卡通,http://125.227.210.55:8167/VideoInput/play.ts 
@@ -24,16 +24,16 @@ TV5台,http://125.227.210.55:15533/VideoInput/play.ts
 YTN台,http://125.227.210.55:17478/VideoInput/play.ts 
 NHK JAPAN台,http://125.227.210.55:35802/VideoInput/play.ts 
 PBS台,http://125.227.210.55:36950/VideoInput/play.ts 
-HD台,http://125.227.210.55:39004/VideoInput/play.ts 
+凤凰卫视台,http://125.227.210.55:39004/VideoInput/play.ts 
 DW台,http://125.227.210.55:42534/VideoInput/play.ts 
 BBC台,http://125.227.210.55:44350/VideoInput/play.ts 
 KOREA台,http://125.227.210.55:48553/VideoInput/play.ts 
 Mainu台,http://125.227.210.55:51359/VideoInput/play.ts 
-🈲驚艷台,http://125.227.210.55:8156/VideoInput/play.ts 
-🍌香蕉台,http://125.227.210.55:8159/VideoInput/play.ts 
-👅奥視1,http://125.227.210.55:8917/VideoInput/play.ts 
-🔮奥視2,http://125.227.210.55:55643/VideoInput/play.ts 
-💖Sex Girl,http://125.227.210.55:62698/VideoInput/play.ts
+🈲驚艷台,http://125.227.210.37:8156/VideoInput/play.ts 
+🍌香蕉台,http://125.227.210.37:8159/VideoInput/play.ts 
+👅奥視1,http://125.227.210.37:8917/VideoInput/play.ts 
+🔮奥視2,http://125.227.210.37:55643/VideoInput/play.ts 
+💖Sex Girl,http://125.227.210.37:62698/VideoInput/play.ts
 
 国际新聞,#genre#
 CNN FHD,http://125.227.210.55:8166/VideoInput/play.ts
