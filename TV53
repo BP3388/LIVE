@@ -1,16 +1,12 @@
 TEST专区,#genre#
-CCTV-1综合,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000311/index.m3u8?IASHttpSessionId=
-CCTV-2财经,http://39.134.144.6:8089/PLTV/88888888/224/3221225751/index.m3u8
-CCTV-3综艺,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000359/index.m3u8?IASHttpSessionId=
-CCTV-4中文国际,http://39.134.144.6:8089/PLTV/88888888/224/3221225757/index.m3u8
-CCTV-5体育,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000360/index.m3u8?IASHttpSessionId=
-CCTV-6电影,http://39.134.144.6:8089/PLTV/88888888/224/3221226427/index.m3u8
-CCTV-5+体育赛事,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000316/index.m3u8
-CCTV-5+体育赛事,http://39.134.144.6:8089/PLTV/88888888/224/3221225781/index.m3u8
-CCTV-5+体育赛事,http://39.136.48.51:8089/PLTV/88888888/224/3221225781/index.m3u8
-CCTV-5+体育赛事,rtsp://223.99.188.13/PLTV/88888888/224/3221226218/10000100000000060000000002553918_0.smil
-CCTV-5+体育赛事,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000316/index.m3u8?IASHttpSessionId=
-CCTV-4美洲,http://39.134.144.6:8089/PLTV/88888888/224/3221226395/index.m3u8
+CCTV-1综合,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226895/1.m3u8?
+CCTV-2财经,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226893/1.m3u8?
+CCTV-3综艺,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226471/1.m3u8?
+CNN news,http://125.227.210.55:8166/VideoInput/play.ts
+
+
+
+
 
 📺移湖南动,#genre#
 CCTV1-综合,http://220.170.243.172:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -179,26 +175,6 @@ CCTV17,http://sh.lnott.top:880/dx17.m3u8
 
 
 
-专区111,#genre#
-深圳卫视4k,https://livepull-tcms.sztv.com.cn/live/sz4Kpgm.m3u8
-深圳卫视4k,http://8.138.7.223/tv/gd.php?id=0201
-广东卫视4K,http://119.32.12.12:2901/udp/225.1.101.86:7523
-苏州4K,https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
-广州南国都市4K,https://tencentplaybusiness.gztv.com/live/nanguodushi.m3u8
-翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct2
-明珠台,http://php.jdshipin.com/TVOD/iptv.php?id=mzt
-凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
-凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
-凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
-纬来体育AKtv,http://s1.an94tv.cfd/aktv2/CH-0/AKTV.m3u8
-ASTRo4kAKtv,http://s1.an94tv.cfd/astro/astrosportuhd/AKTV.m3u8
-ASTRO体AKtv,http://s1.an94tv.cfd/astro/CH-0/AKTV.m3u8
-Euro_体1AKtv,http://s1.an94tv.cfd/astro/eurosport1/AKTV.m3u8
-Euro_体2AKtv,http://s1.an94tv.cfd/astro/eurosport2/AKTV.m3u8
-TNT_体1AKtv,http://s1.an94tv.cfd/astro/tntsports1/AKTV.m3u8
-TNT_体2AKtv,http://s1.an94tv.cfd/astro/tntsports2/AKTV.m3u8
-TNT_体3AKtv,http://s1.an94tv.cfd/astro/tntsports3/AKTV.m3u8
-Sky体-F1AKtv,http://s1.an94tv.cfd/aktv2/skysportsf1/AKTV.m3u8
 
 
 央视AAA,#genre#
@@ -294,46 +270,6 @@ PDD影院,https://live.iill.top/douyu/1274132
 
 
 
-
-咪咕,#genre#
-CCTV-01咪咕,http://go.bkpcp.top/mg/cctv1
-CCTV-02咪咕,http://go.bkpcp.top/mg/cctv2
-CCTV-03咪咕,http://go.bkpcp.top/mg/cctv3
-CCTV-04咪咕,http://go.bkpcp.top/mg/cctv4
-CCTV-05咪咕,http://go.bkpcp.top/mg/cctv5
-CCTV-5+咪咕,http://go.bkpcp.top/mg/cctv5p
-CCTV-06咪咕,http://go.bkpcp.top/mg/cctv6
-CCTV-07咪咕,http://go.bkpcp.top/mg/cctv7
-CCTV-08咪咕,http://go.bkpcp.top/mg/cctv8
-CCTV-09咪咕,http://go.bkpcp.top/mg/cctv9
-CCTV-10咪咕,http://go.bkpcp.top/mg/cctv10
-CCTV-11咪咕,http://go.bkpcp.top/mg/cctv11
-CCTV-12咪咕,http://go.bkpcp.top/mg/cctv12
-CCTV-13咪咕,http://go.bkpcp.top/mg/cctv13
-CCTV-14咪咕,http://go.bkpcp.top/mg/cctv14
-CCTV-15咪咕,http://go.bkpcp.top/mg/cctv15
-CCTV-16咪咕,http://go.bkpcp.top/mg/cctv16
-CCTV-17咪咕,http://go.bkpcp.top/mg/cctv17
-cct4欧洲咪咕,http://go.bkpcp.top/mg/cctv4o
-cct4美洲咪咕,http://go.bkpcp.top/mg/cctv4m
-CGTN-西咪咕,http://go.bkpcp.top/mg/cgtne
-CGTN-阿咪咕,http://go.bkpcp.top/mg/cgtna
-CGTN-法咪咕,http://go.bkpcp.top/mg/cgtnf
-北京卫视咪咕,http://go.bkpcp.top/mg/bjws
-东方卫视咪咕,http://go.bkpcp.top/mg/dfws
-浙江卫视咪咕,http://go.bkpcp.top/mg/zjws
-江苏卫视咪咕,http://go.bkpcp.top/mg/jsws
-湖南卫视咪咕,http://go.bkpcp.top/mg/hunws
-广东卫视咪咕,http://go.bkpcp.top/mg/gdws
-深圳卫视咪4k,http://go.bkpcp.top/mg/szws
-山东卫视咪咕,http://go.bkpcp.top/mg/sdws
-河南卫视咪咕,http://go.bkpcp.top/mg/hnws
-江西卫视咪咕,http://go.bkpcp.top/mg/jxws
-湖北卫视咪咕,http://go.bkpcp.top/mg/hubws
-海南卫视咪咕,http://go.bkpcp.top/mg/hinws
-陕西卫视咪咕,http://go.bkpcp.top/mg/sxws
-兵团卫视咪咕,http://go.bkpcp.top/mg/btws
-黑龙江视咪咕,http://go.bkpcp.top/mg/hljws
 
 央视--上海电信,#genre#
 CCTV1综合,http://vpn.shpcw.com:9898/udp/239.45.3.88:5140$上海电信
@@ -466,42 +402,6 @@ CGTN[768*576],https://zby.130519.xyz/PLTV/11/224/3221226016/index.m3u8
 
 
 
-TW RTMP,#genre#
-台视,rtmp://f13h.mine.nu/sat/tv071
-中视,rtmp://f13h.mine.nu/sat/tv091
-华视,rtmp://f13h.mine.nu/sat/tv111
-民视,rtmp://f13h.mine.nu/sat/tv051
-纬来体育,rtmp://f13h.mine.nu/sat/tv721
-纬来育乐,rtmp://f13h.mine.nu/sat/tv701
-纬来日本,rtmp://f13h.mine.nu/sat/tv771
-东森财经,rtmp://f13h.mine.nu/sat/tv571
-东森超视,rtmp://f13h.mine.nu/sat/tv331
-非凡新闻,rtmp://f13h.mine.nu/sat/tv581
-MoMo综合,rtmp://f13h.mine.nu/sat/tv761
-ELEVEN体育1,rtmp://f13h.mine.nu/sat/tv731
-ELEVEN体育2,rtmp://f13h.mine.nu/sat/tv741
-華視,rtmp://f13h.mine.nu/sat/tv111
-中視,rtmp://f13h.mine.nu/sat/tv091
-台視,rtmp://f13h.mine.nu/sat/tv071
-民視,rtmp://f13h.mine.nu/sat/tv051
-緯來日本,rtmp://f13h.mine.nu/sat/tv771
-緯來育樂,rtmp://f13h.mine.nu/sat/tv701
-緯來體育,rtmp://f13h.mine.nu/sat/tv721
-东森超视,rtmp://f13h.mine.nu/sat/tv331
-MoMo综合,rtmp://f13h.mine.nu/sat/tv761
-ELEVEN体育1,rtmp://f13h.mine.nu/sat/tv731
-ELEVEN体育2,rtmp://f13h.mine.nu/sat/tv741
-ELEVEN体育3,rtmp://f13h.mine.nu/sat/tv751
-凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
-凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
-凤凰资讯,http://cdn3.132.us.kg/live/fhzx/stream.m3u8
-香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-环球电视,http://zb.xzxwhcb.com:9999/hls/world.m3u8
-翡翠台,http://v2h.jdshipin.com/jade2/jade.stream/chunklist_w100.m3u8
-人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
-
-
-
 
 
 
@@ -546,14 +446,7 @@ CCTV16-4K-BST,http://58.240.140.71:35455/bst/cctv16hd4k@15000000.m3u8
 北京IPTV 4K,http://192.168.1.4:9188/udp/239.3.1.249:8001
 
 
-数字频道,#genre#
-CHC影迷电影,http://223.82.161.157:899/hls/51/index.m3u8
-CHC家庭影院,http://223.82.161.157:899/hls/53/index.m3u8
-CHC动作电影,http://223.82.161.157:899/hls/54/index.m3u8
-求索纪录,
-求索科学,
-求索生活,
-求索动物,
+
 
 新聞,#genre#
 美国CNN,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
@@ -588,92 +481,6 @@ CNBC,http://125.227.210.55:8152/VideoInput/play.ts
 
 
 
-咪咕央视,#genre#
-CCTV-1综合,http://go.bkpcp.top/mg/cctv1
-CCTV-2财经 ,http://go.bkpcp.top/mg/cctv2
-CCTV-3综艺,http://go.bkpcp.top/mg/cctv3
-CCTV-4中文国际,http://go.bkpcp.top/mg/cctv4
-CCTV-5体育,https://smart.pendy.dpdns.org/Smart.php?id=cctv5
-CCTV-5+体育赛事,http://223.82.161.157:899/hls/501/index.m3u8
-CCTV-6电影,http://go.bkpcp.top/mg/cctv6
-CCTV-7国防军事,http://go.bkpcp.top/mg/cctv7
-CCTV-8电视剧,http://go.bkpcp.top/mg/cctv8
-CCTV-9纪录,http://go.bkpcp.top/mg/cctv9
-CCTV-10科教,http://go.bkpcp.top/mg/cctv10
-CCTV-11戏曲,http://go.bkpcp.top/mg/cctv11
-CCTV-12社会与法,http://go.bkpcp.top/mg/cctv12
-CCTV-13新闻,http://go.bkpcp.top/mg/cctv13
-CCTV-14少儿,http://go.bkpcp.top/mg/cctv14
-CCTV-15音乐,http://go.bkpcp.top/mg/cctv15
-CCTV-16奥林匹克,http://go.bkpcp.top/mg/cctv16
-CCTV-17农业农村,http://go.bkpcp.top/mg/cctv17
-CCTV世界地理,
-CCTV兵器科技,
-CCTV兵器科技,
-CCTV兵器科技,
-CCTV央视台球,
-CCTV怀旧剧场,
-CCTV风云剧场,http://114.104.183.26:8688/udp/238.1.79.62:4632
-CCTV风云足球,http://114.104.183.26:8688/udp/238.1.79.57:4592
-CCTV风云音乐,http://114.104.183.26:8688/udp/238.1.79.64:4648
-CCTV高尔夫网球,http://114.104.183.26:8688/udp/238.1.79.58:4600
-CCTV高尔夫网球,http://114.104.141.121:8688/udp/238.1.79.58:4600
-
-
-
-
-
-
-AKTV,#genre#
-Animax (HK),http://s1.an94tv.cfd/aktv/animaxhk/AKTV.m3u8
-AXN,http://s1.an94tv.cfd/aktv/axn/AKTV.m3u8
-Channel 5 HD,http://s1.an94tv.cfd/aktv/channel5hd/AKTV.m3u8
-Channel 8 HD,http://s1.an94tv.cfd/aktv/channel8hd/AKTV.m3u8
-Channel U HD,http://s1.an94tv.cfd/aktv/channeluhd/AKTV.m3u8
-Love Nature HD,http://s1.an94tv.cfd/aktv/lovenaturehd/AKTV.m3u8
-PopC,http://s1.an94tv.cfd/aktv/popc/AKTV.m3u8
-ROCK Action,http://s1.an94tv.cfd/aktv/rockaction/AKTV.m3u8
-TVB Plus,http://s1.an94tv.cfd/aktv/tvbplus/AKTV.m3u8
-tvN,http://s1.an94tv.cfd/aktv/tvn/AKTV.m3u8
-天映經典(1080),http://s1.an94tv.cfd/aktv/1080/AKTV.m3u8
-明珠剧集台(北美),http://s1.an94tv.cfd/aktv/CH-19/AKTV.m3u8
-明珠台,http://s1.an94tv.cfd/aktv/CH-2/AKTV.m3u8
-無線新聞台,http://s1.an94tv.cfd/aktv/CH-1/AKTV.m3u8
-美亞電影台(HK),http://s1.an94tv.cfd/aktv/hk/AKTV.m3u8
-翡翠剧集台(北美),http://s1.an94tv.cfd/aktv/CH-18/AKTV.m3u8
-翡翠台,http://s1.an94tv.cfd/aktv/CH-0/AKTV.m3u8
-翡翠综合台(北美),http://s1.an94tv.cfd/aktv/CH-17/AKTV.m3u8
-鳳凰衛視中文台,http://s1.an94tv.cfd/aktv/CH-3/AKTV.m3u8
-鳳凰衛視資訊台,http://s1.an94tv.cfd/aktv/CH-4/AKTV.m3u8
-鳳凰衛視香港台,http://s1.an94tv.cfd/aktv/CH-5/AKTV.m3u8
-黃金翡翠台,http://s1.an94tv.cfd/aktv/CH-6/AKTV.m3u8
-Sky Sports F1,http://s1.an94tv.cfd/aktv2/skysportsf1/AKTV.m3u8
-天映电影,http://s1.an94tv.cfd/aktv2/CH-3/AKTV.m3u8
-好萊塢電影台,http://s1.an94tv.cfd/aktv2/CH-1/AKTV.m3u8
-東森洋片,http://s1.an94tv.cfd/aktv2/CH-2/AKTV.m3u8
-緯來體育台,http://s1.an94tv.cfd/aktv2/CH-0/AKTV.m3u8
-CNA,http://s1.an94tv.cfd/aktv3/cna/AKTV.m3u8
-朝鲜恩情台,http://s1.an94tv.cfd/aktv3/CH-0/AKTV.m3u8
-Japan News 24H LIVE,http://s1.an94tv.cfd/aktvjp/japannews24hlive/AKTV.m3u8
-日テレNEWS LIVE,http://s1.an94tv.cfd/aktvjp/ntv/AKTV.m3u8
-8TV,http://s1.an94tv.cfd/astro/8tv/AKTV.m3u8
-Astro Football,http://s1.an94tv.cfd/astro/CH-0/AKTV.m3u8
-Astro Sport UHD,http://s1.an94tv.cfd/astro/astrosportuhd/AKTV.m3u8
-EuroSport 1,http://s1.an94tv.cfd/astro/eurosport1/AKTV.m3u8
-EuroSport 2,http://s1.an94tv.cfd/astro/eurosport2/AKTV.m3u8
-TNT SPORTS 1,http://s1.an94tv.cfd/astro/tntsports1/AKTV.m3u8
-TNT SPORTS 2,http://s1.an94tv.cfd/astro/tntsports2/AKTV.m3u8
-TNT SPORTS 3,http://s1.an94tv.cfd/astro/tntsports3/AKTV.m3u8
-中天亚洲台,http://s1.an94tv.cfd/astro/CH-1/AKTV.m3u8
-KLT-靖天國際台,http://s1.an94tv.cfd/taiwan/CH-3/AKTV.m3u8
-TVBS,http://s1.an94tv.cfd/taiwan/tvbs/AKTV.m3u8
-民視,http://s1.an94tv.cfd/taiwan/CH-1/AKTV.m3u8
-民視第一台,http://s1.an94tv.cfd/taiwan/CH-0/AKTV.m3u8
-龍華日韓台,http://s1.an94tv.cfd/taiwan/CH-5/AKTV.m3u8
-TVB 星河,http://s1.an94tv.cfd/taiwan2/tvb/AKTV.m3u8
-TVBS新聞,http://s1.an94tv.cfd/tvbs/tvbs/AKTV.m3u8
-中天新闻台,http://s1.an94tv.cfd/zhongtian/CH-0/AKTV.m3u8
-東森新聞,http://s1.an94tv.cfd/zhongtian/CH-1/AKTV.m3u8
 
 
 
