@@ -72,74 +72,43 @@ http://106.52.196.79/TV/mui.php?id=jsws
 
 
 
-#EXTINF:-1  tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png"  group-title="💓专享央视",CCTV1
-https://smart.pendy.dpdns.org/Smart.php?id=cctv1
-#EXTINF:-1  tvg-name="CCTV2" tvg-logo="https://live.fanmingming.cn/tv/CCTV2.png"  group-title="💓专享央视",CCTV2
-https://smart.pendy.dpdns.org/Smart.php?id=cctv2
-#EXTINF:-1  tvg-name="CCTV3" tvg-logo="https://live.fanmingming.cn/tv/CCTV3.png"  group-title="💓专享央视",CCTV3
-https://smart.pendy.dpdns.org/Smart.php?id=cctv3
-#EXTINF:-1  tvg-name="CCTV4" tvg-logo="https://live.fanmingming.cn/tv/CCTV4.png"  group-title="💓专享央视",CCTV4
-https://smart.pendy.dpdns.org/Smart.php?id=cctv4
-#EXTINF:-1  tvg-name="CCTV5" tvg-logo="https://live.fanmingming.cn/tv/CCTV5.png"  group-title="💓专享央视",CCTV5
-https://smart.pendy.dpdns.org/Smart.php?id=cctv5
-#EXTINF:-1  tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.cn/tv/CCTV5+.png"  group-title="💓专享央视",CCTV5+
-https://smart.pendy.dpdns.org/Smart.php?id=cctv5plus
-#EXTINF:-1  tvg-name="CCTV6" tvg-logo="https://live.fanmingming.cn/tv/CCTV6.png"  group-title="💓专享央视",CCTV6
-https://smart.pendy.dpdns.org/Smart.php?id=cctv6
-#EXTINF:-1  tvg-name="CCTV7" tvg-logo="https://live.fanmingming.cn/tv/CCTV7.png"  group-title="💓专享央视",CCTV7
-https://smart.pendy.dpdns.org/Smart.php?id=cctv7
-#EXTINF:-1  tvg-name="CCTV8" tvg-logo="https://live.fanmingming.cn/tv/CCTV8.png"  group-title="💓专享央视",CCTV8
-https://smart.pendy.dpdns.org/Smart.php?id=cctv8hd
-#EXTINF:-1  tvg-name="CCTV9" tvg-logo="https://live.fanmingming.cn/tv/CCTV9.png"  group-title="💓专享央视",CCTV9
-https://smart.pendy.dpdns.org/Smart.php?id=cctv9hd
-#EXTINF:-1  tvg-name="CCTV10" tvg-logo="https://live.fanmingming.cn/tv/CCTV10.png"  group-title="💓专享央视",CCTV10
-https://smart.pendy.dpdns.org/Smart.php?id=cctv10hd
-#EXTINF:-1  tvg-name="CCTV11" tvg-logo="https://live.fanmingming.cn/tv/CCTV11.png"  group-title="💓专享央视",CCTV11
-https://smart.pendy.dpdns.org/Smart.php?id=cctv11
-#EXTINF:-1  tvg-name="CCTV12" tvg-logo="https://live.fanmingming.cn/tv/CCTV12.png"  group-title="💓专享央视",CCTV12
-https://smart.pendy.dpdns.org/Smart.php?id=cctv12
-#EXTINF:-1  tvg-name="CCTV13" tvg-logo="https://live.fanmingming.cn/tv/CCTV13.png"  group-title="💓专享央视",CCTV13
-https://smart.pendy.dpdns.org/Smart.php?id=cctv13
-#EXTINF:-1  tvg-name="CCTV14" tvg-logo="https://live.fanmingming.cn/tv/CCTV14.png"  group-title="💓专享央视",CCTV14
-https://smart.pendy.dpdns.org/Smart.php?id=cctv14
-#EXTINF:-1  tvg-name="CCTV15" tvg-logo="https://live.fanmingming.cn/tv/CCTV15.png"  group-title="💓专享央视",CCTV15
-https://smart.pendy.dpdns.org/Smart.php?id=cctv15
 
-#EXTINF:-1 tvg-name="CCTV-1"  group-title="大陆",CCTV-1
+
+#EXTINF:-1 tvg-name="CCTV1"  group-title="大陆",CCTV-1
 http://go.bkpcp.top/mg/cctv1
-#EXTINF:-1 tvg-name="CCTV-2"  group-title="大陆" ,CCTV-2
+#EXTINF:-1 tvg-name="CCTV2"  group-title="大陆" ,CCTV-2
 http://go.bkpcp.top/mg/cctv2
-#EXTINF:-1 tvg-name="CCTV-3"  group-title="大陆",CCTV-3
+#EXTINF:-1 tvg-name="CCTV3"  group-title="大陆",CCTV-3
 http://go.bkpcp.top/mg/cctv3
-#EXTINF:-1 tvg-name="CCTV-4"  group-title="大陆",CCTV-4
+#EXTINF:-1 tvg-name="CCTV4"  group-title="大陆",CCTV-4
 http://go.bkpcp.top/mg/cctv4
 #EXTINF:-1 tvg-name="CCTV-5"  group-title="大陆",CCTV-5
 http://go.bkpcp.top/mg/cctv5
-#EXTINF:-1 tvg-name="CCTV-5+"  group-title="大陆",CCTV-5+
+#EXTINF:-1 tvg-name="CCTV5+"  group-title="大陆",CCTV-5+
 http://go.bkpcp.top/mg/cctv5p
-#EXTINF:-1 tvg-name="CCTV-6"  group-title="大陆",CCTV-6
+#EXTINF:-1 tvg-name="CCTV6"  group-title="大陆",CCTV-6
 http://go.bkpcp.top/mg/cctv6
-#EXTINF:-1 tvg-name="CCTV-7"  group-title="大陆",CCTV-7
+#EXTINF:-1 tvg-name="CCTV7"  group-title="大陆",CCTV-7
 http://go.bkpcp.top/mg/cctv7
-#EXTINF:-1 tvg-name="CCTV-8"  group-title="大陆",CCTV-8
+#EXTINF:-1 tvg-name="CCTV8"  group-title="大陆",CCTV-8
 http://go.bkpcp.top/mg/cctv8
-#EXTINF:-1 tvg-name="CCTV-9"  group-title="大陆",CCTV-9
+#EXTINF:-1 tvg-name="CCTV9"  group-title="大陆",CCTV-9
 http://go.bkpcp.top/mg/cctv9
-#EXTINF:-1 tvg-name="CCTV-10"  group-title="大陆",CCTV-10
+#EXTINF:-1 tvg-name="CCTV10"  group-title="大陆",CCTV-10
 http://go.bkpcp.top/mg/cctv10
-#EXTINF:-1 tvg-name="CCTV-11"  group-title="大陆",CCTV-11
+#EXTINF:-1 tvg-name="CCTV11"  group-title="大陆",CCTV-11
 http://go.bkpcp.top/mg/cctv11
-#EXTINF:-1 tvg-name="CCTV-12"  group-title="大陆",CCTV-12
+#EXTINF:-1 tvg-name="CCTV12"  group-title="大陆",CCTV-12
 http://go.bkpcp.top/mg/cctv12
-#EXTINF:-1 tvg-name="CCTV-13"  group-title="大陆",CCTV-13
+#EXTINF:-1 tvg-name="CCTV13"  group-title="大陆",CCTV-13
 http://go.bkpcp.top/mg/cctv13
-#EXTINF:-1 tvg-name="CCTV-14"  group-title="大陆",CCTV-14
+#EXTINF:-1 tvg-name="CCTV14"  group-title="大陆",CCTV-14
 http://go.bkpcp.top/mg/cctv14
-#EXTINF:-1 tvg-name="CCTV-15"  group-title="大陆",CCTV-15
+#EXTINF:-1 tvg-name="CCTV15"  group-title="大陆",CCTV-15
 http://go.bkpcp.top/mg/cctv15
-#EXTINF:-1 tvg-name="CCTV-16"  group-title="大陆",CCTV-16
+#EXTINF:-1 tvg-name="CCTV16"  group-title="大陆",CCTV-16
 http://go.bkpcp.top/mg/cctv16
-#EXTINF:-1 tvg-name="CCTV-17"  group-title="大陆",CCTV-17
+#EXTINF:-1 tvg-name="CCTV17"  group-title="大陆",CCTV-17
 http://go.bkpcp.top/mg/cctv17
 #EXTINF:-1 tvg-name="cct4欧洲"  group-title="大陆",cct4欧洲
 http://go.bkpcp.top/mg/cctv4o
@@ -201,30 +170,6 @@ https://livepull-tcms.sztv.com.cn/live/sz4Kpgm.m3u8
 
 
 
-
-
-
-
-
-#数字频道
-#EXTINF:-1 tvg-id="CHC1" tvg-name="CHC影迷电影" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/shuzi/CHC4.png" group-title="数字频道",CHC影迷电影
-http://223.82.161.157:899/hls/51/index.m3u8
-#EXTINF:-1 tvg-id="CHC2" tvg-name="CHC家庭影院" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/shuzi/CHC2.png" group-title="数字频道",CHC家庭影院
-http://223.82.161.157:899/hls/53/index.m3u8
-#EXTINF:-1 tvg-id="CHC3" tvg-name="CHC动作电影" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/shuzi/CHC3.png" group-title="数字频道",CHC动作电影
-http://223.82.161.157:899/hls/54/index.m3u8
-
-
-#EXTINF:-1 tvg-id="149" tvg-name="求索纪录" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/shuzi/Qiusuo1.png" group-title="数字频道",求索纪录
-http://111.22.153.159:35455/itv/2000000004000000010.m3u8?cdn=hnbblive
-#EXTINF:-1 tvg-id="150" tvg-name="求索科学" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/shuzi/Qiusuo2.png" group-title="数字频道",求索科学
-http://111.22.153.159:35455/itv/2000000004000000011.m3u8?cdn=hnbblive
-#EXTINF:-1 tvg-id="171" tvg-name="求索生活" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/shuzi/Qiusuo4.png" group-title="数字频道",求索生活
-http://111.22.153.159:35455/itv/2000000004000000008.m3u8?cdn=hnbblive
-#EXTINF:-1 tvg-id="184" tvg-name="求索动物" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/shuzi/Qiusuo3.png" group-title="数字频道",求索动物
-http://111.22.153.159:35455/itv/2000000004000000009.m3u8?cdn=hnbblive
-#EXTINF:-1 tvg-name="北京纪实科教8K" tvg-logo="https://epg.v1.mk/logo/北京纪实科教8K.png" group-title="数字频道",纪实科教8K
-https://gdcucc.v1.mk/gdcucc/brtv8k.m3u8
 #EXTINF:-1 tvg-id="爱上4K" tvg-name="爱上4K"  tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/shuzi/ah4k.png" tvg-logo="" group-title="数字频道",爱上4K
 http://wouu.net:9977/udp/239.93.0.97:5140
 #EXTINF:-1 tvg-id="华数4K" tvg-name="华数4K"  tvg-logo="https://epg.iill.top/logo/%E5%8D%8E%E6%95%B04K.png" tvg-logo="" group-title="数字频道",华数4K
