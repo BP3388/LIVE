@@ -99,8 +99,17 @@ CHC动作电影,http://119.32.12.17:2901/udp/224.1.100.131:11111
 CHC家庭影院,http://38.75.136.137:98/gslb/dsdqpub/chcjt.m3u8?auth=testpub
 
 
-TEST 4K,#genre#
+TEST 4K 2026,#genre#
+湖南卫视4K,http://61.163.181.78:85/tsfile/live/1045_1.m3u8?key=txiptv&playlive=1&authid=0
+东方卫视4K,http://bp-resource-dfl.bestv.cn/148/3/video.m3u8
+东方卫视4K,https://bp-resource-dfl.bestv.cn/148/3/video.m3u8
+CCTV4K A,http://198.204.240.250:82/live/cctv4k.m3u8?jsbt=1760495957&jsbk=138a7cd8fb02f369c744cf0ceb413e85
+CCTV4K,http://198.204.240.250:82/live/cctv4k.m3u8?jsbt=1760148172&jsbk=8ce47519e62b009dfa80f8fbfb2dd932
 
+
+
+
+TEST 4K,#genre#
 浙江卫视4K,https://play-qukan.cztv.com/live/1758879019692345.m3u8
 翡翠台4K,http://cdn6.163189.xyz/163189/fct4k
 欢笑剧场4K,http://117.174.25.254:8188/rtp/239.0.0.201:5140
