@@ -1,4 +1,121 @@
+💓专享央视,#genre#
+CCTV1,http://74.91.26.218:82/live/cctv1hd.m3u8
+CCTV2,http://pull-hls-f11.douyincdn.com/media/stream-407062262674621100.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1771769775&major_anchor_level=common&sign=98406f42e949db5477a402c85cbee007&t_id=037-20260215221614EEA56BB994BB42D25308-a6AVAz
+CCTV3,http://74.91.26.218:82/live/cctv3hd.m3u8
+CCTV4,http://74.91.26.218:82/live/cctv4hd.m3u8
+CCTV5,http://74.91.26.218:82/live/cctv5hd.m3u8
+CCTV5+,http://74.91.26.218:82/live/cctv5p.m3u8
+CCTV6,http://74.91.26.218:82/live/cctv6hd.m3u8
+CCTV7,http://74.91.26.218:82/live/cctv7hd.m3u8
+CCTV9,http://74.91.26.218:82/live/cctv9hd.m3u8
+CCTV10,http://74.91.26.218:82/live/cctv10hd.m3u8
+CCTV11,http://74.91.26.218:82/live/cctv11hd.m3u8
+CCTV13,http://74.91.26.218:82/live/cctv13hd.m3u8
+CCTV14,http://74.91.26.218:82/live/cctv14hd.m3u8
+CCTV15,http://74.91.26.218:82/live/cctv15hd.m3u8
+CCTV16,http://74.91.26.218:82/live/cctv16hd.m3u8
+CCTV17,http://74.91.26.218:82/live/cctv17hd.m3u8
+CCTV1,http://38.75.136.137:98/gslb/dsdqbv/cctv1hd.m3u8?auth=test20251009
+CCTV2,http://38.75.136.137:98/gslb/dsdqbv/cctv2hd.m3u8?auth=test20251009
+CCTV3,http://38.75.136.137:98/gslb/dsdqbv/cctv3hd.m3u8?auth=test20251009
+CCTV4,http://38.75.136.137:98/gslb/dsdqbv/cctv4hd.m3u8?auth=test20251009
+CCTV5,http://38.75.136.137:98/gslb/dsdqbv/cctv5hd.m3u8?auth=test20251009
+CCTV5+,http://38.75.136.137:98/gslb/dsdqbv/cctv5p.m3u8?auth=test20251009
+CCTV6,http://38.75.136.137:98/gslb/dsdqbv/cctv6hd.m3u8?auth=test20251009
+CCTV7,http://38.75.136.137:98/gslb/dsdqbv/cctv7hd.m3u8?auth=test20251009
+CCTV8,http://38.75.136.137:98/gslb/dsdqbv/cctv8hd.m3u8?auth=test20251009
+CCTV9,http://38.75.136.137:98/gslb/dsdqbv/cctv9hd.m3u8?auth=test20251009
+CCTV10,http://38.75.136.137:98/gslb/dsdqbv/cctv10hd.m3u8?auth=test20251009
+CCTV11,http://38.75.136.137:98/gslb/dsdqbv/cctv11hd.m3u8?auth=test20251009
+CCTV12,http://38.75.136.137:98/gslb/dsdqbv/cctv12hd.m3u8?auth=test20251009
+CCTV13,http://38.75.136.137:98/gslb/dsdqbv/cctv13hd.m3u8?auth=test20251009
+CCTV14,http://38.75.136.137:98/gslb/dsdqbv/cctv14hd.m3u8?auth=test20251009
+CCTV15,http://38.75.136.137:98/gslb/dsdqbv/cctv15hd.m3u8?auth=test20251009
+CCTV16,http://38.75.136.137:98/gslb/dsdqbv/cctv16hd.m3u8?auth=test20251009
+CCTV17,http://38.75.136.137:98/gslb/dsdqbv/cctv17hd.m3u8?auth=test20251009
+CCTV1,http://112.46.105.20:8009/hls/501/index.m3u8
+CCTV2,http://112.46.105.20:8009/hls/502/index.m3u8
+CCTV3,http://112.46.105.20:8009/hls/3/index.m3u8
+CCTV4,http://112.46.105.20:8009/hls/4/index.m3u8
+CCTV5,http://112.46.105.20:8009/hls/503/index.m3u8
+CCTV6,http://112.46.105.20:8009/hls/6/index.m3u8
+CCTV7,http://112.46.105.20:8009/hls/504/index.m3u8
+CCTV8,http://112.46.105.20:8009/hls/8/index.m3u8
+CCTV9,http://112.46.105.20:8009/hls/509/index.m3u8
+CCTV10,http://112.46.105.20:8009/hls/506/index.m3u8
+CCTV12,http://112.46.105.20:8009/hls/507/index.m3u8
+CCTV1,http://153.0.171.163:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV2,http://153.0.171.163:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV3,http://153.0.171.163:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV4,http://153.0.171.163:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV5,http://153.0.171.163:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV6,http://153.0.171.163:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV7,http://153.0.171.163:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV8,http://153.0.171.163:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV9,http://153.0.171.163:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV10,http://153.0.171.163:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV11,http://153.0.171.163:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV12,http://153.0.171.163:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV13,http://153.0.171.163:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV14,http://153.0.171.163:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV15,http://153.0.171.163:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV兵器科技,http://38.75.136.137:98/gslb/dsdqpub/gfjs.m3u8?auth=testpub
+CCTV卫生健康,http://38.75.136.137:98/gslb/dsdqpub/wsjk.m3u8?auth=testpub
+CCTV央视台球,http://38.75.136.137:98/gslb/dsdqpub/ystq.m3u8?auth=testpub
+CCTV第一剧场,http://38.75.136.137:98/gslb/dsdqpub/dyjc.m3u8?auth=testpub
+CCTV风云剧场,http://38.75.136.137:98/gslb/dsdqpub/fyjc.m3u8?auth=testpub
+CCTV怀旧剧场,http://38.75.136.137:98/gslb/dsdqpub/hjjc.m3u8?auth=testpub
+CCTV风云足球,http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub
+CCTV风云音乐,http://38.75.136.137:98/gslb/dsdqpub/fyyy.m3u8?auth=testpub
+CCTV世界地理,http://38.75.136.137:98/gslb/dsdqpub/sjdl.m3u8?auth=testpub
+CCTV电视指南,http://38.75.136.137:98/gslb/dsdqpub/dszn.m3u8?auth=testpub
+CCTV兵器科技,http://38.75.136.137:98/gslb/dsdqpub/bqkj.m3u8?auth=testpub
+CCTB高尔夫网球,http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
+CCTV央视文化精品,http://38.75.136.137:98/gslb/dsdqpub/ysjp.m3u8?auth=testpub
+CCTV女性时尚,http://38.75.136.137:98/gslb/dsdqpub/nxss.m3u8?auth=testpub
+CCTV风云足球,http://111.61.236.247:9081/hls/58/index.m3u8
+CCTV世界地理,http://111.61.236.247:9081/hls/62/index.m3u8
+CCTV第一剧场,http://xc.mfykeke.top:35455/nptv/dyjc.m3u8
+CCTV风云剧场,http://xc.mfykeke.top:35455/nptv/fyjc.m3u8
+CCTV怀旧剧场,http://xc.mfykeke.top:35455/nptv/hjjc.m3u8
+CCTV电视指南,http://www.tszhgjj.cn:7000/rtp/239.253.93.249:6427
 
+💓4K(Test),#genre#
+Love Nature 4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+Love Nature 4K,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=1761&tk=f6cc1e0a0e1a
+Loupe 4K,https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
+Loupe 4K,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=4726&tk=f6cc1e0a0e1a
+Fashion 4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+Fashion 4K,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=9831&tk=f6cc1e0a0e1a
+苏州4K,https://live-auth.51kandianshi.com/szgd/csztv4k_hd.m3u8
+河北4K,https://event.pull.hebtv.com:443/live/live101.m3u8
+河北4K,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=f56e90&tk=922ba46651d3
+南国都市4K,https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de
+咪咕体育1,http://home.kuaidi521.com:35455/itv/3000000010000005180.m3u8
+咪咕国际4K,http://home.kuaidi521.com:35455/itv/3000000010000015686.m3u8
+北京纪实科教8K,https://gdcucc.v1.mk/gdcucc/brtv8k.m3u8
+北京IPTV4K,http://home.kuaidi521.com:35455/bptv/3221226550.m3u8
+CCTV 4K,http://fn.tmde.top:35455/nptv/cctv4k.m3u8
+CCTV 8K,http://fn.tmde.top:35455/nptv/cctv8k.m3u8
+CCTV 4K,http://xc.mfykeke.top:35455/nptv/cctv4k.m3u8
+CCTV 8K,http://xc.mfykeke.top:35455/nptv/cctv8k.m3u8
+北京卫视4K,http://43.251.226.89:8080/play/918.m3u8
+深圳卫视4K,http://43.251.226.89:8080/play/919.m3u8
+湖南卫视4K,http://43.251.226.89:8080/play/920.m3u8
+湖南卫视4K,http://43.251.226.89:8080/play/921.m3u8
+浙江卫视4K,http://43.251.226.89:8080/play/922.m3u8
+浙江卫视4K,http://43.251.226.89:8080/play/923.m3u8
+江苏卫视4K,http://43.251.226.89:8080/play/924.m3u8
+江苏卫视4K,http://43.251.226.89:8080/play/925.m3u8
+东方卫视4K,http://43.251.226.89:8080/play/926.m3u8
+苏州4K,http://43.251.226.89:8080/play/927.m3u8
+河北4K,http://43.251.226.89:8080/play/928.m3u8
+深圳卫视4K,https://livepull-tcms.sztv.com.cn:443/live/sz4Kpgm.m3u8
+深圳卫视4K,http://8.138.7.223/tv/gd.php?id=0201
+深圳卫视4K,http://ikuai.haleeyo.cn:9003/udp/239.77.1.14:5146
+深圳卫视4K,http://27.184.29.189:4022/rtp/239.254.201.68:6000
+广东卫视4K,http://vvip.lqcc.xyz:8092/stream/channelid/1248069700?auth=PrI5LXwb51dYilt30TvNYVVAgd4A&profile=pass
+广东卫视4K,http://ikuai.haleeyo.cn:9003/udp/239.77.0.27:5146
 
 
 
